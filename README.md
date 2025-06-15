@@ -1,26 +1,35 @@
 # Profile
 
 - In Japanese:
-  - 刑部好弘, 博士(工学)
-  - 株式会社日立製作所 研究開発グループ 主任研究員
+  - 刑部好弘
+  - 博士(工学)
+  - **株式会社日立製作所 研究開発グループ**　主任研究員
+  - **[NPO法人 数理の翼](https://www.npo-tsubasa.jp)**　理事長
 - In English:
-  - Yoshihiro Osakabe, Ph.D.
+  - Yoshihiro Osakabe
+  - Ph.D. in Engineering
   - Chief Researcher at Research and Development Group, Hitachi, Ltd.
+  - Board Chairman, NPO Suuri no Tsubasa
 
-## Contact Information (SNS Links) \| 連絡先・SNSなど
 
-- **Email: yoshihiro.osakabe.fj \[at\] hitachi.com**
-- In English:
-  1. [LinkedIn (EN)](https://www.linkedin.com/in/yshroskb/): **Please contact me via LinkedIn.**
-  2. [ORCID](https://orcid.org/0000-0001-7217-6097)
-  3. [publons (EN)](https://publons.com/researcher/4634254/yoshihiro-osakabe/): The list of my publications and the verified reviews are available. 
-  4. [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe): My publications are also listed, and few of the PDFs are available.
-  5. [GitHub (EN)](https://github.com/yosakabe/profile): this page.
-- In Japanese:
-  1. [Researchmap (JP)](https://researchmap.jp/yoshihiro_osakabe)
-  2. [X - Twitter (JP)](https://twitter.com/osaKB)
-  3. [Qiita (JP)](https://qiita.com/yosakabe)
-  4. [Hatena Blog (JP)](https://coffeebreakscript.hatenablog.com)
+
+
+## Contact Information (SNS Links) \| 連絡先・SNS
+
+- **Contact \| 連絡先**
+  1. [LinkedIn](https://www.linkedin.com/in/yshroskb/)
+  2. Email: yoshihiro.osakabe.fj \[at\] hitachi.com
+  3. [GitHub](https://github.com/yosakabe)
+- Japanese ONLY:
+  1. [Researchmap](https://researchmap.jp/yoshihiro_osakabe)
+  2. [X - Twitter](https://twitter.com/osaKB)
+  3. [はてなブログ](https://coffeebreakscript.hatenablog.com)
+  4. [Qiita](https://qiita.com/yosakabe)
+- For Academia (English available)
+  1. [ORCID](https://orcid.org/0000-0001-7217-6097)
+  2. [ResearchGate](https://www.researchgate.net/profile/Yoshihiro-Osakabe)
+  3. [publons](https://publons.com/researcher/4634254/yoshihiro-osakabe/)
+
 
 ## Fields of Expertise \| 専門分野
 - Artificial Intelligence
@@ -45,18 +54,19 @@
 - 2015年3月　東北大学大学院 工学研究科 電子工学専攻 修士課程修了
 - 2018年3月　東北大学大学院 工学研究科 電子工学専攻 博士課程修了
 - 2018年4月　(株)日立製作所 研究開発グループ 入社
-  - 2018年 総合職企画員 / Associate Researcher（知能情報研究部）
-  - 2019年 研究員 / Researcher（知能情報研究部）
-  - 2022年 研究員 / Senior Researcher（データサイエンスラボラトリ）
-  - 2024年 主任研究員 / Chief Researcher（データサイエンスラボラトリ）
-  - 2025年 主任研究員 / Chief Researcher（社会インテリジェンス研究部）
+  - 2018年 総合職企画員 / Associate Researcher（デジタルテクノロジーイノベーションセンタ・知能情報研究部）
+  - 2019年 研究員 / Researcher（人工知能イノベーションセンタ・知能情報研究部）
+  - 2019年 研究員 / Researcher（先端AIイノベーションセンタ・知能情報研究部）
+  - 2022年 研究員 / Senior Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
+  - 2024年 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
+  - 2025年 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・社会インテリジェンス研究部）
 
+## Other Positions \| 社外での委員・役員等
 
-# Concurrent External Positions \| 社外での委員・役員等
+- May, 2023 - Now: 電子情報通信学会 和文D編集委員会　編集委員（Associate Editor, IEICE） 
+- Nov, 2023 - Now: [NPO法人 数理の翼](https://www.npo-tsubasa.jp) 理事長
+- Nov, 2017 - Oct, 2023: [NPO法人 数理の翼](https://www.npo-tsubasa.jp)　理事
 
-- Since May, 2023: Associate Editor, IEICE - 電子情報通信学会 和文D編集委員会　編集委員
-- Since Nov, 2023: Board Chairman, NPO Suuri no Tsubasa - NPO法人 数理の翼 理事長
-- Since Nov, 2017: Director, NPO Suuri no Tsubasa - NPO法人 数理の翼　理事
 
 # Publications
 ## Awards \| 受賞歴
@@ -128,6 +138,8 @@
 Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe) for the abstracts.
 
 ## News Releases and Related Web Articles \| ニュースリリースと関連報道記事
+- [(2025/5/13) デジタル×バイオ融合により、細胞遺伝子治療薬の効果的な開発を支援する技術を開発](https://www.hitachi.co.jp/New/cnews/month/2025/05/0513b.html)
+    - [日経バイオテク \| 日立製作所、デジタル×バイオ融合により、細胞遺伝子治療薬の効果的な開発を支援する技術を開発](https://bio.nikkeibp.co.jp/atcl/release/25/05/14/24132/)
 - [(2023/9/11) 東京大学と日立がバイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.hitachi.co.jp/New/cnews/month/2023/09/0911.html)
     - [東京大学大学院工学系研究科からの発表 (共同発表)](https://www.t.u-tokyo.ac.jp/press/pr2023-09-11-001)
     - [日経新聞 \| 東大と日立、バイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.nikkei.com/article/DGXZRSP661841_R10C23A9000000/)
