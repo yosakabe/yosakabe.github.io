@@ -1,4 +1,4 @@
-# Executive Summary
+# Profile
 
 - In Japanese:
   - 刑部好弘, 博士(工学)
@@ -7,7 +7,7 @@
   - Yoshihiro Osakabe, Ph.D.
   - Chief Researcher at Research and Development Group, Hitachi, Ltd.
 
-# Contact Information (SNS Links) \| 連絡先・SNSなど
+## Contact Information (SNS Links) \| 連絡先・SNSなど
 
 - **Email: yoshihiro.osakabe.fj \[at\] hitachi.com**
 - In English:
@@ -22,7 +22,7 @@
   3. [Qiita (JP)](https://qiita.com/yosakabe)
   4. [Hatena Blog (JP)](https://coffeebreakscript.hatenablog.com)
 
-# Fields of Expertise \| 専門分野
+## Fields of Expertise \| 専門分野
 - Artificial Intelligence
   - AI4Science / Scientific AI
   - Materials Informatics / Bioinformatics
