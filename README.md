@@ -7,7 +7,7 @@
   - Yoshihiro Osakabe, Ph.D.
   - Chief Researcher at Research and Development Group, Hitachi, Ltd.
 
-# Contact Information (SNS Links) | 連絡先・SNSなど
+# Contact Information (SNS Links) \| 連絡先・SNSなど
 
 - **Email: yoshihiro.osakabe.fj \[at\] hitachi.com**
 - In English:
@@ -22,7 +22,7 @@
   3. [Qiita (JP)](https://qiita.com/yosakabe)
   4. [Hatena Blog (JP)](https://coffeebreakscript.hatenablog.com)
 
-# Fields of Expertise | 専門分野
+# Fields of Expertise \| 専門分野
 - Artificial Intelligence
   - AI4Science / Scientific AI
   - Materials Informatics / Bioinformatics
@@ -35,7 +35,7 @@
   - Quantum Machine Learning & Quantum Deep Learning
   - Superconducting Qubit Architectures
 
-# Biography | 来歴
+# Biography \| 来歴
 
 **Yoshihiro Osakabe** received the B.E., M.E. and Ph.D. degrees from Tohoku University, Sendai, Japan, in 2013, 2015, and 2018, respectively.
 **From April 2018, he is a Senior Researcher at Hitachi, Ltd. Research and Development Group**, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for **materials informatics and geospatial informatics**. His current research interests also include the emergence of intelligence and non-von Neumann computing.
@@ -52,25 +52,25 @@
   - 2025年 主任研究員 / Chief Researcher（社会インテリジェンス研究部）
 
 
-# Concurrent External Positions | 社外での委員・役員等
+# Concurrent External Positions \| 社外での委員・役員等
 
 - Since May, 2023: Associate Editor, IEICE - 電子情報通信学会 和文D編集委員会　編集委員
 - Since Nov, 2023: Board Chairman, NPO Suuri no Tsubasa - NPO法人 数理の翼 理事長
 - Since Nov, 2017: Director, NPO Suuri no Tsubasa - NPO法人 数理の翼　理事
 
 # Publications
-## Awards | 受賞歴
+## Awards \| 受賞歴
 
 1. **Won 1st prize**, MAST Plasma Equilibrium challenge - ITER International School Data Science Challenge 2024:
-    - [Official Report | On magnetic fusion diagnostics and data science (iter.org)](https://www.iter.org/node/20687/magnetic-fusion-diagnostics-and-data-science)
+    - [Official Report \| On magnetic fusion diagnostics and data science (iter.org)](https://www.iter.org/node/20687/magnetic-fusion-diagnostics-and-data-science)
 1. **The Best Paper Prize**, IEEE Sendai Section Student Awards 2015:
     - Y. Osakabe, S. Sato, T. Onomi, H. Akima, M. Sakuraba, "Superconductivity Coherence in Series Array of Nb/AlOx/Nb Josephson Junctions", November 2015.
 
 
-## Invited Talks / Seminars / Webinars | 招待講演・セミナー
+## Invited Talks / Seminars / Webinars \| 招待講演・セミナー
 
-- 刑部好弘, "科学研究を加速する機械学習・深層学習技術," 第56回技術士CPD講座 - AIデータサイエンス/医療統計学, May 17th, 2025. **[【LINK1】](https://www.engineer.or.jp/c_shibu/ibaraki/topics/010/010783.html)** | **[【LINK2】](https://www.engineer.or.jp/c_shibu/ibaraki/topics/010/attached/attach_10783_1.pdf)**
-- 刑部好弘, "分子構造生成モデル：統計的言語普遍と外挿領域からの生成," 統計数学☓情報☓物質セミナー①〜数学とマテリアルズDX〜｜2024a011, Jan 27th, 2025. **[【Website】](https://joint.imi.kyushu-u.ac.jp/post-14920/)** | **[【YouTube】](https://youtu.be/iB9Z1ZnIf4k?si=uX_iJ-O06d-PfmQ1)**
+- 刑部好弘, "科学研究を加速する機械学習・深層学習技術," 第56回技術士CPD講座 - AIデータサイエンス/医療統計学, May 17th, 2025. **[【LINK1】](https://www.engineer.or.jp/c_shibu/ibaraki/topics/010/010783.html)** \| **[【LINK2】](https://www.engineer.or.jp/c_shibu/ibaraki/topics/010/attached/attach_10783_1.pdf)**
+- 刑部好弘, "分子構造生成モデル：統計的言語普遍と外挿領域からの生成," 統計数学☓情報☓物質セミナー①〜数学とマテリアルズDX〜｜2024a011, Jan 27th, 2025. **[【Website】](https://joint.imi.kyushu-u.ac.jp/post-14920/)** \| **[【YouTube】](https://youtu.be/iB9Z1ZnIf4k?si=uX_iJ-O06d-PfmQ1)**
 - 刑部好弘, "サイエンスと人工知能," 東北大学大学院卓越リーダーセミナー I, July 4th, 2023.
 - 刑部好弘, "マテリアルズ・インフォマティクス - 生成系AIによる実験候補材料探索の効率化," Laboratory Automation勉強会, May 20th, 2023. **[【LINK】](https://laboratoryautomation.connpass.com/)**
 - 刑部好弘, "現実世界の課題解決に挑む、日立の研究開発," 東北大学研究開発実践論, October 31st, 2022.
@@ -84,13 +84,13 @@
 - Y. Osakabe, "Neuro-inspired Iterative Learning Rules for Quantum Neural Networks," The International Conference on Soft Computing and Machine Learning (SCML), 2019.
 - Y. Osakabe, "Hebbian and anti-Hebbian Learning of Qubit Networks for Quantum Associative Memory," The Collaborative Conference on Quantum Machine Learning (CCQML), OAHOST, May 2018.
 
-## Thesis and Dissertation | 学位論文
+## Thesis and Dissertation \| 学位論文
 
 - **Thesis (修士学位論文):** Yoshihiro Osakabe, "ジョセフソン接合列の巨視的量子トンネリング特性とその多接合効果に関する研究 (Multi-Junction Effect on Macroscopic Quantum Tunneling in Josephson Junctions in Series)," Tohoku University (JAPAN), 2015-03-25.
 - **Dissertation (博士学位論文):** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," Tohoku University (JAPAN), 2018-03-27. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/127805)**
-  - **Departmental Bulletin Paper | 紀要論文:** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," 東北大学電通談話会記録, No. 87, Vol. 1, pp. 30--33, 東北大学電気通信研究所 (Research Institute of Electrical Communication, Tohoku University, JAPAN), 2018-09-25. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/126020)**
+  - **Departmental Bulletin Paper \| 紀要論文:** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," 東北大学電通談話会記録, No. 87, Vol. 1, pp. 30\-\-33, 東北大学電気通信研究所 (Research Institute of Electrical Communication, Tohoku University, JAPAN), 2018-09-25. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/126020)**
 
-## Academic Articles & Proceedings | 学術論文誌ならびにプロシーディングス
+## Academic Articles & Proceedings \| 学術論文誌ならびにプロシーディングス
 - **IIS 2024, Poster, Reviewed:** Yoshihiro Osakabe, Akinori Asahara, and Hidekazu Morita, "Exploring Fusion Energy Applications of Database Technology: Large Spatio-temporal Data Management for Rapid Analytics of Scientific Simulations," the 13th ITER International School, P-119, 2024.
 - **IIS 2024, Poster, Reviewed:** Yoshihiro Osakabe, Koichiro Yawata, Akinori Asahara, Kiichiro Toyoizumi, and Takuya Okuyama, "Exploring Fusion Energy Applications of Materials Informatics: QUBO-Enhanced Regression Trees for Rapid Screening of Candidate Materials," the 13th ITER International School, P-120, 2024.
 - **JSAI 2024, Poster, Reviewed:** Ryoichi Takase, Hiroya Ijima, Yoshihiro Osakabe, Akinori Asahara, and Hikaru Koyama, "タンパク質言語モデルの強化学習における報酬関数の評価 (Evaluation of Reward Functions in Reinforcement Learning of Protein Language Models)," 第38回 人工知能学会全国大会論文集 (The 38th Annual Conference of the Japanese Society for Artificial Intelligence), 3Xin2-93, 2024. **[【LINK】](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_3Xin293/_article/-char/ja/)**
@@ -127,32 +127,32 @@
 
 Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe) for the abstracts.
 
-## News Releases and Related Web Articles | ニュースリリースと関連報道記事
+## News Releases and Related Web Articles \| ニュースリリースと関連報道記事
 - [(2023/9/11) 東京大学と日立がバイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.hitachi.co.jp/New/cnews/month/2023/09/0911.html)
     - [東京大学大学院工学系研究科からの発表 (共同発表)](https://www.t.u-tokyo.ac.jp/press/pr2023-09-11-001)
-    - [日経新聞 | 東大と日立、バイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.nikkei.com/article/DGXZRSP661841_R10C23A9000000/)
-    - [日刊工業新聞(電子版) | 日立と東大、バイオアダプティブ材料開発にMI向けAI活用](https://www.nikkan.co.jp/articles/view/00685546)
-    - [IoT News | 東京大学と日立、バイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発ヘ](https://iotnews.jp/manufacturing/233470/)
-    - [BIGLOBEニュース | 東京大学と日立がバイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://news.biglobe.ne.jp/economy/0911/prt_230911_3977841932.html)
+    - [日経新聞 \| 東大と日立、バイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.nikkei.com/article/DGXZRSP661841_R10C23A9000000/)
+    - [日刊工業新聞(電子版) \| 日立と東大、バイオアダプティブ材料開発にMI向けAI活用](https://www.nikkan.co.jp/articles/view/00685546)
+    - [IoT News \| 東京大学と日立、バイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発ヘ](https://iotnews.jp/manufacturing/233470/)
+    - [BIGLOBEニュース \| 東京大学と日立がバイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://news.biglobe.ne.jp/economy/0911/prt_230911_3977841932.html)
 - [(2022/12/16) 疑似量子の活用で従来のMIによる材料開発期間をさらに20%短縮できることを実証](https://www.hitachi.co.jp/New/cnews/month/2022/12/1216.html)
-    - [日経クロステック | 日立の疑似量子技術、MIを使った材料開発期間の20％短縮を試算](https://xtech.nikkei.com/atcl/nxt/news/18/14335/)
-    - [ZDNet Japan | 疑似量子の活用で材料開発期間を約20％削減--日立が有効性を実証](https://japan.zdnet.com/article/35197516/)
-    - [マイナビニュース | 日立、疑似量子コンピュータで材料の開発期間を20%短縮‐Lumadaへ展開](https://news.mynavi.jp/techplus/article/20221216-2539246/)
+    - [日経クロステック \| 日立の疑似量子技術、MIを使った材料開発期間の20％短縮を試算](https://xtech.nikkei.com/atcl/nxt/news/18/14335/)
+    - [ZDNet Japan \| 疑似量子の活用で材料開発期間を約20％削減\-\-日立が有効性を実証](https://japan.zdnet.com/article/35197516/)
+    - [マイナビニュース \| 日立、疑似量子コンピュータで材料の開発期間を20%短縮‐Lumadaへ展開](https://news.mynavi.jp/techplus/article/20221216-2539246/)
 - [(2021/6/28) 三井化学と日立が材料開発を高速化するMI技術の実用化に向けた実証試験を開始](https://www.hitachi.co.jp/New/cnews/month/2021/06/0628.html)
-    - [English ver | Mitsui Chemicals and Hitachi Start Demonstration Test for Practical Application of MI Technology to Speed Up Materials Development](https://www.hitachi.com/New/cnews/month/2021/06/210628.html)
-    - [三井化学株式会社からの発表 (共同発表) | 有機材料開発の実験回数を従来比約1/4に低減し、新材料開発のDXを実現](https://jp.mitsuichemicals.com/jp/release/2021/2021_0628_03.htm)
-    - [日経新聞 | 日立と三井化学　AI使う材料開発で実証試験](https://www.nikkei.com/article/DGXZQOUC283S30Y1A620C2000000/)
-    - [日経クロステック | 三井化学と日立が新規材料の化合物を発見するAI、実験回数を4分の1に削減](https://xtech.nikkei.com/atcl/nxt/news/18/10698/)
-    - [MONOist | 日立が実験回数4分の1のマテリアルズインフォマティクス技術、三井化学と実証へ](https://monoist.itmedia.co.jp/mn/articles/2106/29/news052.html)
+    - [English ver \| Mitsui Chemicals and Hitachi Start Demonstration Test for Practical Application of MI Technology to Speed Up Materials Development](https://www.hitachi.com/New/cnews/month/2021/06/210628.html)
+    - [三井化学株式会社からの発表 (共同発表) \| 有機材料開発の実験回数を従来比約1/4に低減し、新材料開発のDXを実現](https://jp.mitsuichemicals.com/jp/release/2021/2021_0628_03.htm)
+    - [日経新聞 \| 日立と三井化学　AI使う材料開発で実証試験](https://www.nikkei.com/article/DGXZQOUC283S30Y1A620C2000000/)
+    - [日経クロステック \| 三井化学と日立が新規材料の化合物を発見するAI、実験回数を4分の1に削減](https://xtech.nikkei.com/atcl/nxt/news/18/10698/)
+    - [MONOist \| 日立が実験回数4分の1のマテリアルズインフォマティクス技術、三井化学と実証へ](https://monoist.itmedia.co.jp/mn/articles/2106/29/news052.html)
 
-## Interviews, Web Articles and Others | インタビュー記事やウェブ記事など、その他
-- [企業で活躍する博士人財ロールモデル事例集 | 日立製作所 刑部好弘](https://www.meti.go.jp/policy/innovation_corp/roll_model_hakase.pdf)
-  - [掲載元 | 経済産業省 - 博士人材活躍促進に向けて](https://www.meti.go.jp/policy/innovation_corp/hakasezinnzai_katuyaku.html)
-  - [掲載元 | 文部科学省 - 博士人材活躍プラン～博士をとろう～](https://www.mext.go.jp/a_menu/jinzai/1278386_00002.htm)
+## Interviews, Web Articles and Others \| インタビュー記事やウェブ記事など、その他
+- [企業で活躍する博士人財ロールモデル事例集 \| 日立製作所 刑部好弘](https://www.meti.go.jp/policy/innovation_corp/roll_model_hakase.pdf)
+  - [掲載元 \| 経済産業省 - 博士人材活躍促進に向けて](https://www.meti.go.jp/policy/innovation_corp/hakasezinnzai_katuyaku.html)
+  - [掲載元 \| 文部科学省 - 博士人材活躍プラン～博士をとろう～](https://www.mext.go.jp/a_menu/jinzai/1278386_00002.htm)
 - [日立製作所 社員インタビュー 刑部好弘](https://www.hitachi.co.jp/recruit/newgraduate/people/interview/interviewOsakabe.html)
-  - [日立製作所 | 博士採用・インターン：社員インタビュー](https://www.hitachi.co.jp/recruit/doctor/index.html)
-  - [日立製作所 | 新卒採用・インターン：社員インタビュー](https://www.hitachi.co.jp/recruit/newgraduate/people/interview/)
-- [(2023/10/31) 日経クロステック | 専門組織設置で生成AI活用に動く日立・三菱・NEC、商品化にらみまずは社内向けで](https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00138/00004/)
+  - [日立製作所 \| 博士採用・インターン：社員インタビュー](https://www.hitachi.co.jp/recruit/doctor/index.html)
+  - [日立製作所 \| 新卒採用・インターン：社員インタビュー](https://www.hitachi.co.jp/recruit/newgraduate/people/interview/)
+- [(2023/10/31) 日経クロステック \| 専門組織設置で生成AI活用に動く日立・三菱・NEC、商品化にらみまずは社内向けで](https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00138/00004/)
 - [オンライン開催！日立製作所のトップAI研究者と学ぶコンペティション-地下道歩行者量予測- メンターインタビュー 刑部 好弘さん](https://journal.peakers.jp/1511122254/)
     - [オンライン開催！　日立製作所のトップAI研究者と学ぶコンペティション -地下道歩行者量予測-](https://peakers.jp/projects/69)
 - [AIやシミュレーション技術を活用したマテリアルズ・インフォマティクス（MI）について](https://qiita.com/KH_MOON/items/7cdd5c1501d60e125f5e)
