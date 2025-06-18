@@ -1,4 +1,4 @@
-# Profile
+# Portfolio
 
 - In Japanese:
   - 刑部好弘
@@ -14,21 +14,22 @@
 
 
 
-## Contact Information (SNS Links) \| 連絡先・SNS
+## Profile pages & SNS \| 連絡先・SNS
 
-- **Contact \| 連絡先**
+- **Contact:**
   1. [LinkedIn](https://www.linkedin.com/in/yshroskb/)
   2. Email: yoshihiro.osakabe.fj \[at\] hitachi.com
   3. [GitHub](https://github.com/yosakabe)
-- Japanese ONLY:
+- **Japanese ONLY:**
   1. [Researchmap](https://researchmap.jp/yoshihiro_osakabe)
   2. [X - Twitter](https://twitter.com/osaKB)
   3. [はてなブログ](https://coffeebreakscript.hatenablog.com)
   4. [Qiita](https://qiita.com/yosakabe)
-- For Academia (English available)
-  1. [ORCID](https://orcid.org/0000-0001-7217-6097)
-  2. [ResearchGate](https://www.researchgate.net/profile/Yoshihiro-Osakabe)
-  3. [publons](https://publons.com/researcher/4634254/yoshihiro-osakabe/)
+- **For Academia (English available):**
+  1. [Google Scholar Profile Page](https://scholar.google.co.jp/citations?user=LRmQRQwAAAAJ)
+  2. [ORCID](https://orcid.org/0000-0001-7217-6097)
+  3. [ResearchGate](https://www.researchgate.net/profile/Yoshihiro-Osakabe)
+  4. [publons](https://publons.com/researcher/4634254/yoshihiro-osakabe/)
 
 
 ## Fields of Expertise \| 専門分野
