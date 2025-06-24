@@ -4,11 +4,13 @@
   - 刑部好弘
   - 博士(工学)
   - **株式会社日立製作所 研究開発グループ**　主任研究員
+  - **一般社団法人 人工知能学会**　理事
   - **[NPO法人 数理の翼](https://www.npo-tsubasa.jp)**　理事長
 - In English:
   - Yoshihiro Osakabe
   - Ph.D. in Engineering
   - Chief Researcher at Research and Development Group, Hitachi, Ltd.
+  - Board Member, The Japanese Society for Artificial Intelligence
   - Board Chairman, NPO Suuri no Tsubasa
 
 
@@ -50,10 +52,6 @@
 **Yoshihiro Osakabe** received the B.E., M.E. and Ph.D. degrees from Tohoku University, Sendai, Japan, in 2013, 2015, and 2018, respectively.
 **From April 2018, he is a Senior Researcher at Hitachi, Ltd. Research and Development Group**, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for **materials informatics and geospatial informatics**. His current research interests also include the emergence of intelligence and non-von Neumann computing.
 
-- 2009年3月　東京学芸大学附属高校 卒業
-- 2013年3月　東北大学 工学部 情報知能システム総合学科　コンピュータサイエンスコース　卒業
-- 2015年3月　東北大学大学院 工学研究科 電子工学専攻 修士課程修了
-- 2018年3月　東北大学大学院 工学研究科 電子工学専攻 博士課程修了
 - 2018年4月　(株)日立製作所 研究開発グループ 入社
   - 2018年 総合職企画員 / Associate Researcher（デジタルテクノロジーイノベーションセンタ・知能情報研究部）
   - 2019年 研究員 / Researcher（人工知能イノベーションセンタ・知能情報研究部）
@@ -62,9 +60,17 @@
   - 2024年 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
   - 2025年 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・社会インテリジェンス研究部）
 
+## Education \| 学歴
+
+- 2009年3月　東京学芸大学附属高校 卒業
+- 2013年3月　東北大学 工学部 情報知能システム総合学科　コンピュータサイエンスコース　卒業
+- 2015年3月　東北大学大学院 工学研究科 電子工学専攻 修士課程修了
+- 2018年3月　東北大学大学院 工学研究科 電子工学専攻 博士課程修了
+
 ## Other Positions \| 社外での委員・役員等
 
-- May, 2023 - Now: 電子情報通信学会 和文D編集委員会　編集委員（Associate Editor, IEICE） 
+- June, 2025 - Now: 人工知能学会 理事 (Board Member, JSAI)
+- May, 2023 - Now: 電子情報通信学会 和文D編集委員会　編集委員（Associate Editor, IEICE）
 - Nov, 2023 - Now: [NPO法人 数理の翼](https://www.npo-tsubasa.jp) 理事長
 - Nov, 2017 - Oct, 2023: [NPO法人 数理の翼](https://www.npo-tsubasa.jp)　理事
 
