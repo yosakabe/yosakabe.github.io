@@ -53,19 +53,19 @@
 **From April 2018, he is a Senior Researcher at Hitachi, Ltd. Research and Development Group**, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for **materials informatics and geospatial informatics**. His current research interests also include the emergence of intelligence and non-von Neumann computing.
 
 - 2018年4月　(株)日立製作所 研究開発グループ 入社
-  - 2018年 総合職企画員 / Associate Researcher（デジタルテクノロジーイノベーションセンタ・知能情報研究部）
-  - 2019年 研究員 / Researcher（人工知能イノベーションセンタ・知能情報研究部）
-  - 2019年 研究員 / Researcher（先端AIイノベーションセンタ・知能情報研究部）
-  - 2022年 研究員 / Senior Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
-  - 2024年 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
-  - 2025年 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・社会インテリジェンス研究部）
+  - 2018年(平成30年) 4月 総合職企画員 / Associate Researcher（デジタルテクノロジーイノベーションセンタ・知能情報研究部）
+  - 2019年(令和1年) 4月 研究員 / Researcher（人工知能イノベーションセンタ・知能情報研究部）
+  - 2020年(令和2年) 4月 研究員 / Researcher（先端AIイノベーションセンタ・知能情報研究部）
+  - 2022年(令和4年) 4月 研究員 / Senior Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
+  - 2024年(令和6年) 4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
+  - 2025年(令和7年) 4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・社会インテリジェンス研究部）
 
 ## Education \| 学歴
 
-- 2009年3月　東京学芸大学附属高校 卒業
-- 2013年3月　東北大学 工学部 情報知能システム総合学科　コンピュータサイエンスコース　卒業
-- 2015年3月　東北大学大学院 工学研究科 電子工学専攻 修士課程修了
-- 2018年3月　東北大学大学院 工学研究科 電子工学専攻 博士課程修了
+- 2009年(平成21年) 3月　東京学芸大学附属高校 卒業
+- 2013年(平成25年) 3月　東北大学 工学部 情報知能システム総合学科　コンピュータサイエンスコース　卒業
+- 2015年(平成27年) 3月　東北大学大学院 工学研究科 電子工学専攻 修士課程修了
+- 2018年(平成30年) 3月　東北大学大学院 工学研究科 電子工学専攻 博士課程修了
 
 ## Other Positions \| 社外での委員・役員等
 
