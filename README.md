@@ -152,6 +152,7 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
 - [(2025/11/27) エピストラと日立、AIを活用しファーメランタの医薬原料中間体「(S)-レチクリン」の生産において、世界最大級の収量とラボ実験回数の最大73%減を達成](https://www.hitachi.co.jp/New/cnews/month/2025/11/1127a.html)
 - [(2025/5/13) デジタル×バイオ融合により、細胞遺伝子治療薬の効果的な開発を支援する技術を開発](https://www.hitachi.co.jp/New/cnews/month/2025/05/0513b.html)
     - [日経バイオテク \| 日立製作所、デジタル×バイオ融合により、細胞遺伝子治療薬の効果的な開発を支援する技術を開発](https://bio.nikkeibp.co.jp/atcl/release/25/05/14/24132/)
+    - [YouTube \| 日立神戸ラボ「デザイン細胞開発プラットフォーム」English Version](https://www.youtube.com/watch?v=DzBA7jxSM7M)
 - [(2023/9/11) 東京大学と日立がバイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.hitachi.co.jp/New/cnews/month/2023/09/0911.html)
     - [東京大学大学院工学系研究科からの発表 (共同発表)](https://www.t.u-tokyo.ac.jp/press/pr2023-09-11-001)
     - [日経新聞 \| 東大と日立、バイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.nikkei.com/article/DGXZRSP661841_R10C23A9000000/)
