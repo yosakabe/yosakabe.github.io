@@ -5,7 +5,7 @@
   - 博士(工学)
   - 本務：**株式会社日立製作所 研究開発グループ**　主任研究員
   - 兼任：**[NPO法人 数理の翼](https://www.npo-tsubasa.jp)**　理事長
-  - 兼任：**東京大学大学院工学系研究科 化学生命工学専攻 酒井崇匡研究室** 共同研究員
+  - 兼任：**東京大学大学院工学系研究科 化学生命工学専攻 酒井崇匡研究室** 客員研究員
   - 兼任：**一般社団法人 人工知能学会**　理事
   
 - In English:
@@ -55,26 +55,27 @@
 **From April 2018, he is a Senior Researcher at Hitachi, Ltd. Research and Development Group**, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for **materials informatics and geospatial informatics**. His current research interests also include the emergence of intelligence and non-von Neumann computing.
 
 - 2018年4月　(株)日立製作所 研究開発グループ 入社
-  - 2018年(平成30年) 4月 総合職企画員 / Associate Researcher（デジタルテクノロジーイノベーションセンタ・知能情報研究部）
-  - 2019年(令和1年) 4月 研究員 / Researcher（人工知能イノベーションセンタ・知能情報研究部）
-  - 2020年(令和2年) 4月 研究員 / Researcher（先端AIイノベーションセンタ・知能情報研究部）
-  - 2022年(令和4年) 4月 研究員 / Senior Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
-  - 2024年(令和6年) 4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
   - 2025年(令和7年) 4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・社会インテリジェンス研究部）
+  - 2024年(令和6年) 4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
+  - 2022年(令和4年) 4月 研究員 / Senior Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
+  - 2020年(令和2年) 4月 研究員 / Researcher（先端AIイノベーションセンタ・知能情報研究部）
+  - 2019年(令和1年) 4月 研究員 / Researcher（人工知能イノベーションセンタ・知能情報研究部）
+  - 2018年(平成30年) 4月 総合職企画員 / Associate Researcher（デジタルテクノロジーイノベーションセンタ・知能情報研究部）
+  
 
 ## Education \| 学歴
 
-- 2009年(平成21年) 3月　東京学芸大学附属高校 卒業
-- 2013年(平成25年) 3月　東北大学 工学部 情報知能システム総合学科　コンピュータサイエンスコース　卒業
-- 2015年(平成27年) 3月　東北大学大学院 工学研究科 電子工学専攻 修士課程修了
 - 2018年(平成30年) 3月　東北大学大学院 工学研究科 電子工学専攻 博士課程修了
+- 2015年(平成27年) 3月　東北大学大学院 工学研究科 電子工学専攻 修士課程修了
+- 2013年(平成25年) 3月　東北大学 工学部 情報知能システム総合学科　コンピュータサイエンスコース　卒業
+- 2009年(平成21年) 3月　東京学芸大学附属高校 卒業
 
 ## Other Positions \| 社外での委員・役員等
 
 - June, 2025 - Now: 人工知能学会 理事 (Board Member, JSAI)
-- May, 2023 - Now: 電子情報通信学会 和文D編集委員会　編集委員（Associate Editor, IEICE）
 - Nov, 2023 - Now: [NPO法人 数理の翼](https://www.npo-tsubasa.jp) 理事長
-- Nov, 2017 - Oct, 2023: [NPO法人 数理の翼](https://www.npo-tsubasa.jp)　理事
+  - Nov, 2017 - Oct, 2023: [NPO法人 数理の翼](https://www.npo-tsubasa.jp)　理事
+- May, 2023 - Now: 電子情報通信学会 和文D編集委員会　編集委員（Associate Editor, IEICE）
 
 
 # Publications
@@ -110,6 +111,7 @@
   - **Departmental Bulletin Paper \| 紀要論文:** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," 東北大学電通談話会記録, No. 87, Vol. 1, pp. 30\-\-33, 東北大学電気通信研究所 (Research Institute of Electrical Communication, Tohoku University, JAPAN), 2018-09-25. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/126020)**
 
 ## Academic Articles & Proceedings \| 学術論文誌ならびにプロシーディングス
+- **IEICE 2026, Oral:** 刑部好弘, 酒井崇匡(東大), and 淺原彰規, "構造の不確実性を考慮するグラフニューラルネットワークの提案とタンパク質の構造秩序性分類タスクによる評価," 電子情報通信学会総合大会 2026, D-19-11, 2026.
 - **IIBMP 2025, Poster, Reviewed:** 田中優次, 高瀬諒一, 刑部好弘, 井島大弥, 淺原彰規, 久田昇二, and 吉田啓, "マスク言語モデルを用いた強化学習法の開発とCAR-T細胞療法への応用 (Reinforcement Learning with Masked Language Model for CAR-T Cell Therapy Application)," 日本バイオインフォマティクス学会年会 (IIBMP) 2025, PO-001, 2025. **[【LINK】](https://www.jsbi.org/iibmp2025/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%99%BA%E8%A1%A8/)**
 - **IIBMP 2025, Poster, Reviewed:** 井島大弥, 刑部好弘, 高瀬諒一, 小山光, 淺原彰規, "配列-機能関係を学習したVariational Autoencoderによる高機能変異タンパク質アミノ酸配列の生成 (Generation of Mutant Amino Acid Sequences for Highly Functional Proteins with a Variational Autoencoder Trained on Sequence-Function Relationships)," 日本バイオインフォマティクス学会年会 (IIBMP) 2025, PO-007, 2025. **[【LINK】](https://www.jsbi.org/iibmp2025/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%99%BA%E8%A1%A8/)**
 - **JSAI 2025, Poster, Reviewed:** 刑部 好弘, 豊泉 喜一郎, 淺原 彰規, 森長 大貴, and 八幡 晃一郎, "量子回路ボルンマシンによるサンプリングを活用した確率的シミュレーションの可能性," 第39回 人工知能学会全国大会論文集 (The 39th Annual Conference of the Japanese Society for Artificial Intelligence), 3Win5-71, 2025. **[【LINK】](https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_3Win571/_article/-char/ja)**
