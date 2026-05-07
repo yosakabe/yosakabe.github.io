@@ -19,14 +19,14 @@ A cross-disciplinary researcher exploring uncharted territories in science throu
 - [Biography（経歴）](#biography)
 - [Awards（受賞）](#awards)
 - [Publications（論文・学会発表）](#publications)
-  - [Academic Papers and Proceedings](#academic-papers-and-proceedings)
-  - [Thesis and Dissertation](#thesis-and-dissertation)
+  - [Academic Papers and Proceedings](#academic-papers--proceedings)
+  - [Thesis and Dissertation](#thesis--dissertation)
 - [Scholarly Presentations（講演）](#scholarly-presentations)
   - [Invited Talks](#invited-talks)
-  - [Seminars and Other Talks](#seminars-and-other-talks)
-- [Outreach and Media（外部発信）](#outreach-and-media)
-  - [News Releases & Related Articles](#news-releases-and-related-articles)
-  - [Interviews & Others](#interviews-and-others)
+  - [Seminars and Other Talks](#seminars--other-talks)
+- [Outreach and Media（外部発信）](#outreach--media)
+  - [News Releases & Related Articles](#news-releases--related-articles)
+  - [Interviews & Others](#interviews--others)
 
 ---
 
@@ -145,7 +145,7 @@ He is currently a Chief Researcher at Hitachi, Ltd., where he leads research act
 
 # Publications
 
-## Academic Papers and Proceedings
+## Academic Papers & Proceedings
 - **IEICE 2026, Oral:** 刑部好弘, 酒井崇匡(東大), and 淺原彰規, "構造の不確実性を考慮するグラフニューラルネットワークの提案とタンパク質の構造秩序性分類タスクによる評価," 電子情報通信学会総合大会 2026, D-19-11, 2026.
 - **IIBMP 2025, Poster, Reviewed:** 田中優次, 高瀬諒一, 刑部好弘, 井島大弥, 淺原彰規, 久田昇二, and 吉田啓, "マスク言語モデルを用いた強化学習法の開発とCAR-T細胞療法への応用 (Reinforcement Learning with Masked Language Model for CAR-T Cell Therapy Application)," 日本バイオインフォマティクス学会年会 (IIBMP) 2025, PO-001, 2025. **[【LINK】](https://www.jsbi.org/iibmp2025/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%99%BA%E8%A1%A8/)**
 - **IIBMP 2025, Poster, Reviewed:** 井島大弥, 刑部好弘, 高瀬諒一, 小山光, 淺原彰規, "配列-機能関係を学習したVariational Autoencoderによる高機能変異タンパク質アミノ酸配列の生成 (Generation of Mutant Amino Acid Sequences for Highly Functional Proteins with a Variational Autoencoder Trained on Sequence-Function Relationships)," 日本バイオインフォマティクス学会年会 (IIBMP) 2025, PO-007, 2025. **[【LINK】](https://www.jsbi.org/iibmp2025/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%99%BA%E8%A1%A8/)**
@@ -191,7 +191,7 @@ He is currently a Chief Researcher at Hitachi, Ltd., where he leads research act
 
 Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe) for the abstracts.
 
-## Thesis and Dissertation
+## Thesis & Dissertation
 
 - **Thesis (修士学位論文):** Yoshihiro Osakabe, "ジョセフソン接合列の巨視的量子トンネリング特性とその多接合効果に関する研究 (Multi-Junction Effect on Macroscopic Quantum Tunneling in Josephson Junctions in Series)," Tohoku University (JAPAN), 2015-03-25.
 - **Dissertation (博士学位論文):** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," Tohoku University (JAPAN), 2018-03-27. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/127805)**
@@ -207,7 +207,7 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
 - Y. Osakabe, "Neuro-inspired Iterative Learning Rules for Quantum Neural Networks," The International Conference on Soft Computing and Machine Learning (SCML), 2019.
 - Y. Osakabe, "Hebbian and anti-Hebbian Learning of Qubit Networks for Quantum Associative Memory," The Collaborative Conference on Quantum Machine Learning (CCQML), OAHOST, May 2018.
 
-## Seminars and Other Talks
+## Seminars & Other Talks
 - 刑部好弘, "科学研究を加速する機械学習・深層学習技術," 第56回技術士CPD講座 - AIデータサイエンス/医療統計学, May 17th, 2025. **[【LINK1】](https://www.engineer.or.jp/c_shibu/ibaraki/topics/010/010783.html)** \| **[【LINK2】](https://www.engineer.or.jp/c_shibu/ibaraki/topics/010/attached/attach_10783_1.pdf)**
 - 刑部好弘, "分子構造生成モデル：統計的言語普遍と外挿領域からの生成," 統計数学☓情報☓物質セミナー①〜数学とマテリアルズDX〜｜2024a011, Jan 27th, 2025. **[【Website】](https://joint.imi.kyushu-u.ac.jp/post-14920/)** \| **[【YouTube】](https://youtu.be/iB9Z1ZnIf4k?si=uX_iJ-O06d-PfmQ1)**
 - 刑部好弘, "サイエンスと人工知能," 東北大学大学院卓越リーダーセミナー I, July 4th, 2023.
@@ -218,9 +218,9 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
 - Y. Osakabe, "Introduction to GeoAI," Special Summer Seminar at The University of Information Technology (Myanmar), June 18th, 2019.
 
 
-# Outreach and Media
+# Outreach & Media
 
-## News Releases and Related Articles
+## News Releases & Related Articles
 - [(2025/11/27) エピストラと日立、AIを活用しファーメランタの医薬原料中間体「(S)-レチクリン」の生産において、世界最大級の収量とラボ実験回数の最大73%減を達成](https://www.hitachi.co.jp/New/cnews/month/2025/11/1127a.html)
 - [(2025/5/13) デジタル×バイオ融合により、細胞遺伝子治療薬の効果的な開発を支援する技術を開発](https://www.hitachi.co.jp/New/cnews/month/2025/05/0513b.html)
     - [日経バイオテク \| 日立製作所、デジタル×バイオ融合により、細胞遺伝子治療薬の効果的な開発を支援する技術を開発](https://bio.nikkeibp.co.jp/atcl/release/25/05/14/24132/)
@@ -242,7 +242,7 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
     - [日経クロステック \| 三井化学と日立が新規材料の化合物を発見するAI、実験回数を4分の1に削減](https://xtech.nikkei.com/atcl/nxt/news/18/10698/)
     - [MONOist \| 日立が実験回数4分の1のマテリアルズインフォマティクス技術、三井化学と実証へ](https://monoist.itmedia.co.jp/mn/articles/2106/29/news052.html)
 
-## Interviews and Others
+## Interviews & Others
 - [企業で活躍する博士人財ロールモデル事例集 \| 日立製作所 刑部好弘](https://www.meti.go.jp/policy/innovation_corp/roll_model_hakase.pdf)
   - [掲載元 \| 経済産業省 - 博士人材活躍促進に向けて](https://www.meti.go.jp/policy/innovation_corp/hakasezinnzai_katuyaku.html)
   - [掲載元 \| 文部科学省 - 博士人材活躍プラン～博士をとろう～](https://www.mext.go.jp/a_menu/jinzai/1278386_00002.htm)
@@ -257,4 +257,4 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
 
 ---
 
-[Back to top](#portfolio--yoshihiro-osakabe--ph-d-)
+[Back to top](#portfolio--yoshihiro-osakabe-phd)
