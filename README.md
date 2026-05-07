@@ -1,4 +1,13 @@
 # Portfolio \| Yoshihiro Osakabe, Ph.D.
+
+[![Hitachi](https://img.shields.io/badge/Hitachi-Chief_Researcher-D0021B?style=flat-square)](https://www.hitachi.co.jp/rd/careers/lab/ai/)
+[![UTokyo](https://img.shields.io/badge/UTokyo-Visiting_Researcher-4B61BA?style=flat-square&logo=theuniversityoftokyo&logoColor=white)](https://gel.tokyo/)
+[![JSAI](https://img.shields.io/badge/JSAI-Board_Member-008000?style=flat-square)](https://www.ai-gakkai.or.jp/)
+[![数理の翼](https://img.shields.io/badge/NPO-数理の翼-D96302?style=flat-square)](https://www.npo-tsubasa.jp/)
+[![Expertise](https://img.shields.io/badge/Expertise-AI_for_Science-black?style=flat-square)](#research-areas)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.co.jp/citations?user=LRmQRQwAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yshroskb/)
+
 ### "Navigating Frontiers to Define Critical Questions and Architect Strategic Paths to Scientific Breakthroughs"  
 > **未知なるフロンティアを探索し、真の問いを定義することで、科学的ブレークスルー発見への戦略的道筋を設計する**
 
@@ -8,6 +17,7 @@ A cross-disciplinary researcher exploring uncharted territories in science throu
 > AI・情報科学を基盤に、自然科学の未踏領域を探索する越境型研究者。
 専門家との対話を通じて**課題そのものを再定義**し、理論・データ・計測を横断した**発見への道筋を構想する**ことを重視しています。
 現在は日立製作所にてAI for Science分野の研究開発をリードしています。
+
 
 ---
 
