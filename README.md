@@ -38,13 +38,13 @@ From a cross-disciplinary perspective, I emphasize redefining research problems 
 - 博士（工学） / Ph.D. in Engineering  
 
 **Affiliations**
-- 主任研究員, 株式会社日立製作所 研究開発グループ 先端AIイノベーションセンタ
+- 主任研究員, 株式会社日立製作所 [研究開発グループ 先端AIイノベーションセンタ](https://www.hitachi.co.jp/rd/careers/lab/ai/)
   - Chief Researcher, Advanced AI Innovation Center, Research and Development Group, Hitachi, Ltd.
-- 理事, 一般社団法人 人工知能学会
+- 理事, [企画委員会](https://kikaku.ai-gakkai.or.jp/) 副委員長, [一般社団法人 人工知能学会](https://www.ai-gakkai.or.jp/)
   - Board Member, The Japanese Society for Artificial Intelligence
-- 理事長, 認定NPO法人 数理の翼
+- 理事長, [認定NPO法人 数理の翼](https://www.npo-tsubasa.jp/)
   - Board Chairman, NPO Suuri-no-Tsubasa
-- 客員研究員, 東京大学大学院工学系研究科（酒井崇匡研究室）
+- 客員研究員, 東京大学大学院工学系研究科（[酒井崇匡研究室](https://gel.tokyo/)）
   - Visiting Researcher, Prof. Takamasa Sakai Lab, Department of Chemistry & Biotechnology, School of Engineering, The University of Tokyo
 
 ## Contact and Links
