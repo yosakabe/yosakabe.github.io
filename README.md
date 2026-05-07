@@ -111,7 +111,7 @@ He is currently a Chief Researcher at Hitachi, Ltd., where he leads research act
 
 ### Career History
 
-- 2018年4月　(株)日立製作所 研究開発グループ 入社
+- 2018年(平成30年) 4月　(株)日立製作所 研究開発グループ 入社
   - 2025年(令和7年)4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・社会インテリジェンス研究部）
   - 2024年(令和6年)4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
   - 2022年(令和4年)4月 研究員 / Senior Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
@@ -132,15 +132,16 @@ He is currently a Chief Researcher at Hitachi, Ltd., where he leads research act
 - 人工知能学会 理事 (Board Member, JSAI)
   - 1期目：2025年6月〜現在
 - [NPO法人 数理の翼](https://www.npo-tsubasa.jp) 理事長
-  - 1期目：2023年10月〜2025年9月
   - 2期目：2025年10月〜現在
+  - 1期目：2023年10月〜2025年9月
 - 電子情報通信学会 和文D編集委員会　編集委員（Associate Editor, IEICE）
   - 1期目：2023年5月〜現在
 - [NPO法人 数理の翼](https://www.npo-tsubasa.jp)　理事
-  - 1期目：2017年10月〜2019年9月
-  - 2期目：2019年10月〜2021年9月
-  - 3期目：2021年10月〜2023年9月
   - 4期目：2023年10月〜2025年9月
+  - 3期目：2021年10月〜2023年9月
+  - 2期目：2019年10月〜2021年9月
+  - 1期目：2017年10月〜2019年9月
+  
 
 # Awards
 
