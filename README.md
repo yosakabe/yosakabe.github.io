@@ -158,7 +158,7 @@ He is currently a Chief Researcher at Hitachi, Ltd., where he leads research act
 - **arXiv:2303.10179:** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO-inspired Molecular Fingerprint for Chemical Property Prediction," arXiv:2303.10179, 17th Mar, 2023. **[【LINK】](https://arxiv.org/abs/2303.10179)**
 - **arXiv:2302.02555 :** Yoshihiro Osakabe, and Akinori Asahara, "Proposing Novel Extrapolative Compounds by Nested Variational Autoencoders," arXiv:2302.02555, 6th Feb, 2023. **[【LINK】](https://arxiv.org/abs/2302.02555)**
 
-<details>
+<details markdown="1">
 <summary>Click to view all publications (2015-2022)</summary>
 
 - **IEEE BigData 2022, Oral, Reviewed:** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO-inspired Molecular Fingerprint for Chemical Property Prediction," Proc. of IEEE Big Data 2022, December 20th, 2022. **[【LINK】](https://ieeexplore.ieee.org/abstract/document/10020236)**
@@ -187,6 +187,7 @@ He is currently a Chief Researcher at Hitachi, Ltd., where he leads research act
 - **Oral:** Y. Osakabe, S. Sato, M. Kinjo, K. Nakajima, H. Akima and M. Sakuraba, "Brain inspired adiabatic quantum computing and learning", Abst. The 4th RIEC International Symposium on Brain Functions and Brain Computer, S4-3, 2016.
 - **Oral:** Y. Osakabe, S. Sato, T. Onomi, H. Akima, M. Sakuraba, "Superconductivity Coherence in Series Array of Nb/AlOx/Nb Josephson Junctions", Proc. 2015 Tohoku-Section Joint Convention of Institutes of Electrical and Information Engineers Japan (平成27年度電気関係学会東北支部連合大会), 1A10, 27-28 August, 2015. **[【LINK】](https://www.jstage.jst.go.jp/article/tsjc/2015/0/2015_10/_article/-char/ja/)**
 - **Poster, Reviewed:** Y. Osakabe, T. Onomi, H. Akima, M. Sakuraba, S. Sato, "Experimental Analysis of Macroscopic Quantum Tunneling Rate in Series Array of Nb/AlOx/Nb Josephson Junctions", Ext. Abst. 15th International Superconductive Electronics Conference, DP-P11, 6-9 July, 2015. (July 6th)
+
 </details>
 
 Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe) for the abstracts.
