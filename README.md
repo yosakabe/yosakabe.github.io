@@ -1,20 +1,19 @@
-# Yoshihiro Osakabe \| Portfolio
+# Portfolio \| Yoshihiro Osakabe, Ph.D.
+### "Navigating Frontiers to Define Critical Questions and Architect Strategic Paths to Scientific Breakthroughs"  
+> **未知なるフロンティアを探索し、真の問いを定義することで、科学的ブレークスルー発見への戦略的道筋を設計する**
 
-AI・情報科学を基盤とし、AI for Scienceを軸に自然科学領域の未踏領域を探索する越境型研究者。  
-物理・化学・生命科学など複数分野において、既存の理論・データ・計測の枠組みを横断しながら、新たな問題設定やアプローチの可能性を探る。  
-また、非ノイマン型コンピューティング（リザバー計算や量子計算）など、新原理コンピューティングと知能の関係にも関心を持つ。  
-分野横断的な視点から、専門家との対話を通じて課題を再定義し、研究の方向性そのものを構想することを重視している。
+## About Me
+A cross-disciplinary researcher exploring uncharted territories in science through AI. I specialize in **redefining core problems** and **architecting strategic paths** to discovery by bridging theory, data, and measurement. Currently leading R&D in AI for Science at Hitachi.
 
-A cross-disciplinary researcher exploring uncharted territories in the natural sciences, grounded in AI and information science, with a focus on AI for Science.  
-Across fields such as physics, chemistry, and life sciences, I investigate new problem formulations and methodological possibilities by traversing existing frameworks of theory, data, and measurement.  
-I also have an interest in the relationship between intelligence and emerging computational paradigms, including non-von Neumann computing (e.g., reservoir computing and quantum computing).  
-From a cross-disciplinary perspective, I emphasize redefining research problems and shaping research directions through close dialogue with domain experts.
+> AI・情報科学を基盤に、自然科学の未踏領域を探索する越境型研究者。
+専門家との対話を通じて**課題そのものを再定義**し、理論・データ・計測を横断した**発見への道筋を構想する**ことを重視しています。
+現在は日立製作所にてAI for Science分野の研究開発をリードしています。
 
 ---
 
 ## Table of Contents
 - [Profile（プロフィール）](#profile)
-- [Contact & Links（連絡先）](#contact-and-links)
+- [Contact & Links（連絡先）](#contact--links)
 - [Research Areas（専門領域）](#research-areas)
 - [Research Statement（研究方針）](#research-statement)
 - [Biography（経歴）](#biography)
@@ -47,7 +46,7 @@ From a cross-disciplinary perspective, I emphasize redefining research problems 
 - 客員研究員, 東京大学大学院工学系研究科（[酒井崇匡研究室](https://gel.tokyo/)）
   - Visiting Researcher, Prof. Takamasa Sakai Lab, Department of Chemistry & Biotechnology, School of Engineering, The University of Tokyo
 
-## Contact and Links
+## Contact ＆ Links
 
 - LinkedIn: [yshroskb](https://www.linkedin.com/in/yshroskb/)
 - Email: yoshihiro.osakabe.fj \[at\] hitachi.com
@@ -95,11 +94,6 @@ Rather than focusing on domain-specific solutions, I approach research problems 
 Through close interaction with domain experts, I seek to uncover implicit constraints and reformulate problems in ways that enable alternative lines of inquiry. This perspective allows for the exploration of research directions that are not apparent within established disciplinary frameworks.  
 Ultimately, my work aims to expand the space of possible methodologies for scientific discovery by re-examining the assumptions embedded in current practices.  
 
-
-## Biography
-
-**Yoshihiro Osakabe** received the B.E., M.E. and Ph.D. degrees from Tohoku University, Sendai, Japan, in 2013, 2015, and 2018, respectively.
-**From April 2018, he joined Hitachi, Ltd. Research and Development Group**, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for **materials informatics and geospatial informatics**. Currently, he is responsible as a chief researcher at Hitachi, Ltd. R&D Group to lead AI for Science field.
 
 ## Biography
 
@@ -163,6 +157,10 @@ He is currently a Chief Researcher at Hitachi, Ltd., where he leads research act
 - **arXiv:2303.09772:** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO Decision Tree: Annealing Machine Extends Decision Tree Splitting," arXiv:2303.09772, 17th Mar, 2023. **[【LINK】](https://arxiv.org/abs/2303.09772)**
 - **arXiv:2303.10179:** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO-inspired Molecular Fingerprint for Chemical Property Prediction," arXiv:2303.10179, 17th Mar, 2023. **[【LINK】](https://arxiv.org/abs/2303.10179)**
 - **arXiv:2302.02555 :** Yoshihiro Osakabe, and Akinori Asahara, "Proposing Novel Extrapolative Compounds by Nested Variational Autoencoders," arXiv:2302.02555, 6th Feb, 2023. **[【LINK】](https://arxiv.org/abs/2302.02555)**
+
+<details>
+<summary>Click to view all publications (2015-2022)</summary>
+
 - **IEEE BigData 2022, Oral, Reviewed:** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO-inspired Molecular Fingerprint for Chemical Property Prediction," Proc. of IEEE Big Data 2022, December 20th, 2022. **[【LINK】](https://ieeexplore.ieee.org/abstract/document/10020236)**
 - **IEEE BigData 2022, Poster, Reviewed:** Akinori Asahara, Yoshihiro Osakabe, Karin Tsuda, and Hidekazu Morita, "Interactive Support System for Idea Divergence-Convergence Iteration," Proc. of IEEE Big Data 2022, December 20th, 2022. **[【LINK】](https://ieeexplore.ieee.org/document/10020899)**
 - **ICKG 2022, Oral, Reviewed:** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO Decision Tree: Annealing Machine Extends Decision Tree Splitting," Proc. of 2022 IEEE International Conference on Knowledge Graph (ICKG), December 1st, 2022. **[【LINK】](https://ieeexplore.ieee.org/document/10030003)**
@@ -189,9 +187,9 @@ He is currently a Chief Researcher at Hitachi, Ltd., where he leads research act
 - **Oral:** Y. Osakabe, S. Sato, M. Kinjo, K. Nakajima, H. Akima and M. Sakuraba, "Brain inspired adiabatic quantum computing and learning", Abst. The 4th RIEC International Symposium on Brain Functions and Brain Computer, S4-3, 2016.
 - **Oral:** Y. Osakabe, S. Sato, T. Onomi, H. Akima, M. Sakuraba, "Superconductivity Coherence in Series Array of Nb/AlOx/Nb Josephson Junctions", Proc. 2015 Tohoku-Section Joint Convention of Institutes of Electrical and Information Engineers Japan (平成27年度電気関係学会東北支部連合大会), 1A10, 27-28 August, 2015. **[【LINK】](https://www.jstage.jst.go.jp/article/tsjc/2015/0/2015_10/_article/-char/ja/)**
 - **Poster, Reviewed:** Y. Osakabe, T. Onomi, H. Akima, M. Sakuraba, S. Sato, "Experimental Analysis of Macroscopic Quantum Tunneling Rate in Series Array of Nb/AlOx/Nb Josephson Junctions", Ext. Abst. 15th International Superconductive Electronics Conference, DP-P11, 6-9 July, 2015. (July 6th)
+</details>
 
 Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe) for the abstracts.
-
 
 ## Thesis and Dissertation
 
@@ -259,4 +257,4 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
 
 ---
 
-[Back to top](#yoshihiro-osakabe--portfolio)
+[Back to top](#portfolio)
