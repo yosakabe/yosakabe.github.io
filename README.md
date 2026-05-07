@@ -1,4 +1,4 @@
-# Yoshihiro Osakabe | Portfolio
+# Yoshihiro Osakabe \| Portfolio
 
 AI・情報科学を基盤とし、AI for Scienceを軸に自然科学領域の未踏領域を探索する越境型研究者。  
 物理・化学・生命科学など複数分野において、既存の理論・データ・計測の枠組みを横断しながら、新たな問題設定やアプローチの可能性を探る。  
@@ -49,15 +49,15 @@ From a cross-disciplinary perspective, I emphasize redefining research problems 
 
 ## Contact and Links
 
-- [LinkedIn | https://www.linkedin.com/in/yshroskb/](https://www.linkedin.com/in/yshroskb/)
+- LinkedIn: [yshroskb](https://www.linkedin.com/in/yshroskb/)
 - Email: yoshihiro.osakabe.fj \[at\] hitachi.com
-- [GitHub | https://github.com/yosakabe](https://github.com/yosakabe)
+- GitHub: [yosakabe](https://github.com/yosakabe)
 
 **Academic Profiles**
 - [Google Scholar Profile Page](https://scholar.google.co.jp/citations?user=LRmQRQwAAAAJ)
 - [ORCID](https://orcid.org/0000-0001-7217-6097)
 - [ResearchGate](https://www.researchgate.net/profile/Yoshihiro-Osakabe)
-- [publons](https://publons.com/researcher/4634254/yoshihiro-osakabe/)
+- [Publons](https://publons.com/researcher/4634254/yoshihiro-osakabe/)
 
 **Japanese**
 - [Researchmap](https://researchmap.jp/yoshihiro_osakabe)
