@@ -1,85 +1,148 @@
-# Portfolio
+# Yoshihiro Osakabe | Portfolio
 
-- In Japanese:
-  - 刑部好弘
-  - 博士(工学)
-  - 本務：**株式会社日立製作所 研究開発グループ**　主任研究員
-  - 兼任：**[NPO法人 数理の翼](https://www.npo-tsubasa.jp)**　理事長
-  - 兼任：**東京大学大学院工学系研究科 化学生命工学専攻 酒井崇匡研究室** 客員研究員
-  - 兼任：**一般社団法人 人工知能学会**　理事
-  
-- In English:
-  - Yoshihiro Osakabe
-  - Ph.D. in Engineering
-  - Chief Researcher at Research and Development Group, Hitachi, Ltd.
+AI・情報科学を基盤とし、AI for Scienceを軸に自然科学領域の未踏領域を探索する越境型研究者。</br>
+物理・化学・生命科学など複数分野において、既存の理論・データ・計測の枠組みを横断しながら、新たな問題設定やアプローチの可能性を探る。</br>
+また、非ノイマン型コンピューティング（リザバー計算や量子計算）など、新原理コンピューティングと知能の関係にも関心を持つ。</br>
+分野横断的な視点から、専門家との対話を通じて課題を再定義し、研究の方向性そのものを構想することを重視している。
+
+A cross-disciplinary researcher exploring uncharted territories in the natural sciences, grounded in AI and information science, with a focus on AI for Science.</br>
+Across fields such as physics, chemistry, and life sciences, I investigate new problem formulations and methodological possibilities by traversing existing frameworks of theory, data, and measurement.</br>
+I also have an interest in the relationship between intelligence and emerging computational paradigms, including non-von Neumann computing (e.g., reservoir computing and quantum computing).</br>
+From a cross-disciplinary perspective, I emphasize redefining research problems and shaping research directions through close dialogue with domain experts.
+
+---
+
+## Table of Contents
+- [Profile（プロフィール）](#profile)
+- [Contact & Links（連絡先）](#contact-and-links)
+- [Research Areas（専門領域）](#research-areas)
+- [Research Statement（研究方針）](#research-statement)
+- [Biography（経歴）](#biography)
+- [Awards（受賞）](#awards)
+- [Publications（論文・学会発表）](#publications)
+  - [Academic Papers and Proceedings](#academic-papers-and-proceedings)
+  - [Thesis and Dissertation](#thesis-and-dissertation)
+- [Scholarly Presentations（講演）](#scholarly-presentations)
+  - [Invited Talks](#invited-talks)
+  - [Seminars and Other Talks](#seminars-and-other-talks)
+- [Outreach and Media（外部発信）](#outreach-and-media)
+  - [News Releases & Related Articles](#news-releases-and-related-articles)
+  - [Interviews & Others](#interviews-and-others)
+
+---
+
+
+## Profile
+
+- 刑部好弘 / Yoshihiro Osakabe  
+- 博士（工学） / Ph.D. in Engineering  
+
+**Affiliations**
+- 主任研究員, 株式会社日立製作所 研究開発グループ 先端AIイノベーションセンタ
+  - Chief Researcher, Advanced AI Innovation Center, Research and Development Group, Hitachi, Ltd.
+- 理事, 一般社団法人 人工知能学会
   - Board Member, The Japanese Society for Artificial Intelligence
-  - Board Chairman, NPO Suuri no Tsubasa
+- 理事長, 認定NPO法人 数理の翼
+  - Board Chairman, NPO Suuri-no-Tsubasa
+- 客員研究員, 東京大学大学院工学系研究科（酒井崇匡研究室）
+  - Visiting Researcher, Prof. Takamasa Sakai Lab, Department of Chemistry & Biotechnology, School of Engineering, The University of Tokyo
 
+## Contact and Links
 
+- [LinkedIn | https://www.linkedin.com/in/yshroskb/](https://www.linkedin.com/in/yshroskb/)
+- Email: yoshihiro.osakabe.fj \[at\] hitachi.com
+- [GitHub | https://github.com/yosakabe](https://github.com/yosakabe)
 
+**Academic Profiles**
+- [Google Scholar Profile Page](https://scholar.google.co.jp/citations?user=LRmQRQwAAAAJ)
+- [ORCID](https://orcid.org/0000-0001-7217-6097)
+- [ResearchGate](https://www.researchgate.net/profile/Yoshihiro-Osakabe)
+- [publons](https://publons.com/researcher/4634254/yoshihiro-osakabe/)
 
-## Profile pages & SNS \| 連絡先・SNS
+**Japanese**
+- [Researchmap](https://researchmap.jp/yoshihiro_osakabe)
+- [X - Twitter](https://twitter.com/osaKB)
+- [はてなブログ](https://coffeebreakscript.hatenablog.com)
+- [Qiita](https://qiita.com/yosakabe)
 
-- **Contact:**
-  1. [LinkedIn](https://www.linkedin.com/in/yshroskb/)
-  2. Email: yoshihiro.osakabe.fj \[at\] hitachi.com
-  3. [GitHub](https://github.com/yosakabe)
-- **Japanese ONLY:**
-  1. [Researchmap](https://researchmap.jp/yoshihiro_osakabe)
-  2. [X - Twitter](https://twitter.com/osaKB)
-  3. [はてなブログ](https://coffeebreakscript.hatenablog.com)
-  4. [Qiita](https://qiita.com/yosakabe)
-- **For Academia (English available):**
-  1. [Google Scholar Profile Page](https://scholar.google.co.jp/citations?user=LRmQRQwAAAAJ)
-  2. [ORCID](https://orcid.org/0000-0001-7217-6097)
-  3. [ResearchGate](https://www.researchgate.net/profile/Yoshihiro-Osakabe)
-  4. [publons](https://publons.com/researcher/4634254/yoshihiro-osakabe/)
+## Research Areas
 
-
-## Fields of Expertise \| 専門分野
-- Artificial Intelligence
-  - AI4Science / Scientific AI
-  - Materials Informatics / Bioinformatics
-    - Deep Generative Model for Automatic Chemical Design
-    - Deep Generative Model for Protein Design (Protein Language Models)
+- Foundations of Intelligence
+  - Information Processing and Emergence of Intelligence
+  - **Artificial Intelligence**
+    - AI for Science (aka. AI4Science) / Scientific AI
+    - Materials Informatics / Bioinformatics
+      - Deep Generative Model for Automatic Chemical Design
+      - Deep Generative Model for Protein Design (Protein Language Models)
     - AI for Laboratory Automation
-  - GeoAI (AI for Geospatial Information)
-- Quantum Computing
-  - Quantum Neural Networks
-  - Quantum Machine Learning & Quantum Deep Learning
-  - Superconducting Qubit Architectures
+    - GeoAI (AI for Geospatial Information)
+  - Non-von Neumann Computing
+    - Reservoir Computing
+  - Quantum Computing
+    - Quantum Neural Networks
+    - Quantum Machine Learning & Quantum Deep Learning
+    - Quantum Circuit Learning
+    - Superconducting Qubit Architectures
 
-# Biography \| 来歴
+
+## Research Statement
+
+多くの科学的課題は、データそのものだけでなく、それをどのような枠組みで解釈するかによっても制約されている。この認識を出発点として、特に理論・データ・計測が交差する領域において、前提となる仮定を捉え直すことで、新たな問題設定がどのように立ち上がるかに関心を持っている。</br>
+個別分野に閉じた解の追求にとどまらず、研究課題をより一般的な構造を持つ問いとして捉えることを重視している。不完全かつ不確実な観測のもとでの推論、異なる性質の知識の統合、さらには既存の方法論の枠組みをどのように拡張できるかといった観点から、問題を捉え直すことを試みている。</br>
+各分野の専門家との対話を通じて、その領域に内在する暗黙の前提や制約を明らかにし、問題そのものの立て方を見直す。このプロセスを通じて、既存の分野の枠内では見えにくい研究の方向性を探る。</br>
+最終的には、現在の科学的実践に埋め込まれている前提を見直すことで、科学的発見に向けた方法論の可能性そのものを拡張することを目指している。
+
+My research is motivated by the observation that many scientific problems are constrained not only by data, but by the frameworks through which those data are interpreted. I am interested in how new problem formulations can emerge by revisiting these underlying assumptions, particularly at the intersection of theory, data, and measurement.</br>
+Rather than focusing on domain-specific solutions, I approach research problems as instances of broader structural questions: how to reason under limited and uncertain observations, how to reconcile heterogeneous sources of knowledge, and how to extend existing methodological boundaries.</br>
+Through close interaction with domain experts, I seek to uncover implicit constraints and reformulate problems in ways that enable alternative lines of inquiry. This perspective allows for the exploration of research directions that are not apparent within established disciplinary frameworks.</br>
+Ultimately, my work aims to expand the space of possible methodologies for scientific discovery by re-examining the assumptions embedded in current practices.</br>
+
+
+## Biography
 
 **Yoshihiro Osakabe** received the B.E., M.E. and Ph.D. degrees from Tohoku University, Sendai, Japan, in 2013, 2015, and 2018, respectively.
-**From April 2018, he is a Senior Researcher at Hitachi, Ltd. Research and Development Group**, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for **materials informatics and geospatial informatics**. His current research interests also include the emergence of intelligence and non-von Neumann computing.
+**From April 2018, he joined Hitachi, Ltd. Research and Development Group**, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for **materials informatics and geospatial informatics**. Currently, he is responsible as a chief researcher at Hitachi, Ltd. R&D Group to lead AI for Science field.
+
+## Biography
+
+**Yoshihiro Osakabe** received the B.E., M.E., and Ph.D. degrees from Tohoku University, Sendai, Japan, in 2013, 2015, and 2018, respectively.</br>
+He joined Hitachi, Ltd., Research and Development Group, Tokyo, Japan, in April 2018, where he has been engaged in research on artificial intelligence, particularly in the areas of materials informatics and geospatial informatics.</br>
+He is currently a Chief Researcher at Hitachi, Ltd., where he leads research activities in AI for Science, focusing on cross-disciplinary approaches to scientific discovery.
+
+### Career History
 
 - 2018年4月　(株)日立製作所 研究開発グループ 入社
-  - 2025年(令和7年) 4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・社会インテリジェンス研究部）
-  - 2024年(令和6年) 4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
-  - 2022年(令和4年) 4月 研究員 / Senior Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
-  - 2020年(令和2年) 4月 研究員 / Researcher（先端AIイノベーションセンタ・知能情報研究部）
-  - 2019年(令和1年) 4月 研究員 / Researcher（人工知能イノベーションセンタ・知能情報研究部）
-  - 2018年(平成30年) 4月 総合職企画員 / Associate Researcher（デジタルテクノロジーイノベーションセンタ・知能情報研究部）
+  - 2025年(令和7年)4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・社会インテリジェンス研究部）
+  - 2024年(令和6年)4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
+  - 2022年(令和4年)4月 研究員 / Senior Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
+  - 2020年(令和2年)4月 研究員 / Researcher（先端AIイノベーションセンタ・知能情報研究部）
+  - 2019年(令和1年)4月 研究員 / Researcher（人工知能イノベーションセンタ・知能情報研究部）
+  - 2018年(平成30年)4月 総合職企画員 / Associate Researcher（デジタルテクノロジーイノベーションセンタ・知能情報研究部）
   
 
-## Education \| 学歴
+### Education
 
 - 2018年(平成30年) 3月　東北大学大学院 工学研究科 電子工学専攻 博士課程修了
 - 2015年(平成27年) 3月　東北大学大学院 工学研究科 電子工学専攻 修士課程修了
 - 2013年(平成25年) 3月　東北大学 工学部 情報知能システム総合学科　コンピュータサイエンスコース　卒業
 - 2009年(平成21年) 3月　東京学芸大学附属高校 卒業
 
-## Other Positions \| 社外での委員・役員等
+### Other Positions
 
-- June, 2025 - Now: 人工知能学会 理事 (Board Member, JSAI)
-- Nov, 2023 - Now: [NPO法人 数理の翼](https://www.npo-tsubasa.jp) 理事長
-  - Nov, 2017 - Oct, 2023: [NPO法人 数理の翼](https://www.npo-tsubasa.jp)　理事
-- May, 2023 - Now: 電子情報通信学会 和文D編集委員会　編集委員（Associate Editor, IEICE）
+- 人工知能学会 理事 (Board Member, JSAI)
+  - 1期目：2025年6月〜現在
+- [NPO法人 数理の翼](https://www.npo-tsubasa.jp) 理事長
+  - 1期目：2023年10月〜2025年9月
+  - 2期目：2025年10月〜現在
+- 電子情報通信学会 和文D編集委員会　編集委員（Associate Editor, IEICE）
+  - 1期目：2023年5月〜現在
+- [NPO法人 数理の翼](https://www.npo-tsubasa.jp)　理事
+  - 1期目：2017年10月〜2019年9月
+  - 2期目：2019年10月〜2021年9月
+  - 3期目：2021年10月〜2023年9月
+  - 4期目：2023年10月〜2025年9月
 
-
-# Publications
-## Awards \| 受賞歴
+# Awards
 
 1. **Won 1st prize**, MAST Plasma Equilibrium challenge - ITER International School Data Science Challenge 2024:
     - [Official Report \| On magnetic fusion diagnostics and data science (iter.org)](https://www.iter.org/node/20687/magnetic-fusion-diagnostics-and-data-science)
@@ -87,30 +150,9 @@
     - Y. Osakabe, S. Sato, T. Onomi, H. Akima, M. Sakuraba, "Superconductivity Coherence in Series Array of Nb/AlOx/Nb Josephson Junctions", November 2015.
 
 
-## Invited Talks / Seminars / Webinars \| 招待講演・セミナー
+# Publications
 
-- 刑部好弘, "科学研究を加速する機械学習・深層学習技術," 第56回技術士CPD講座 - AIデータサイエンス/医療統計学, May 17th, 2025. **[【LINK1】](https://www.engineer.or.jp/c_shibu/ibaraki/topics/010/010783.html)** \| **[【LINK2】](https://www.engineer.or.jp/c_shibu/ibaraki/topics/010/attached/attach_10783_1.pdf)**
-- 刑部好弘, "分子構造生成モデル：統計的言語普遍と外挿領域からの生成," 統計数学☓情報☓物質セミナー①〜数学とマテリアルズDX〜｜2024a011, Jan 27th, 2025. **[【Website】](https://joint.imi.kyushu-u.ac.jp/post-14920/)** \| **[【YouTube】](https://youtu.be/iB9Z1ZnIf4k?si=uX_iJ-O06d-PfmQ1)**
-- 刑部好弘, "サイエンスと人工知能," 東北大学大学院卓越リーダーセミナー I, July 4th, 2023.
-- 刑部好弘, "マテリアルズ・インフォマティクス - 生成系AIによる実験候補材料探索の効率化," Laboratory Automation勉強会, May 20th, 2023. **[【LINK】](https://laboratoryautomation.connpass.com/)**
-- 刑部好弘, "現実世界の課題解決に挑む、日立の研究開発," 東北大学研究開発実践論, October 31st, 2022.
-- 刑部好弘, and 淺原彰規, "MF-JSON に関連した日立のケーススタディと周辺技術のご紹介," NICT スマートIoT推進フォーラム 技術戦略検討部会 テストベッド分科会 － 第11回データ分析・可視化タスクフォース, July 12th, 2022.
-    - The overview of the task force meeting is [here (https://testbed.nict.go.jp/bunkakai/da-v.html)](https://testbed.nict.go.jp/bunkakai/da-v.html).
-    - The presentation material is available online; [PDF](https://testbed.nict.go.jp/bunkakai/pdf/da-v_tf-11-02.pdf).
-- 刑部好弘, "マテリアルズ・インフォマティクス - 材料探索とAI," 人工知能学会全国大会(第36回) 株式会社日立製作所 ランチョンセミナー, June 15th, 2022. **[【LINK】](https://www.ai-gakkai.or.jp/jsai2022/wp-content/uploads/sites/17/2022/05/AC36038_LUNCHEON_SEMINAR_PDF_rev2.pdf)**
-- 刑部好弘, "科学者のためのAI," 東北大学大学院卓越リーダーセミナー I, April 26th, 2022.
-- 刑部好弘, and 淺原彰規, " 高度な動線分析の実現に向けて - 分析事例紹介と分析区画動的決定法の検討," 第28回地理情報システム学会研究発表大会, 2019.
-- Y. Osakabe, "Introduction to GeoAI," Special Summer Seminar at The University of Information Technology (Myanmar), June 18th, 2019.
-- Y. Osakabe, "Neuro-inspired Iterative Learning Rules for Quantum Neural Networks," The International Conference on Soft Computing and Machine Learning (SCML), 2019.
-- Y. Osakabe, "Hebbian and anti-Hebbian Learning of Qubit Networks for Quantum Associative Memory," The Collaborative Conference on Quantum Machine Learning (CCQML), OAHOST, May 2018.
-
-## Thesis and Dissertation \| 学位論文
-
-- **Thesis (修士学位論文):** Yoshihiro Osakabe, "ジョセフソン接合列の巨視的量子トンネリング特性とその多接合効果に関する研究 (Multi-Junction Effect on Macroscopic Quantum Tunneling in Josephson Junctions in Series)," Tohoku University (JAPAN), 2015-03-25.
-- **Dissertation (博士学位論文):** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," Tohoku University (JAPAN), 2018-03-27. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/127805)**
-  - **Departmental Bulletin Paper \| 紀要論文:** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," 東北大学電通談話会記録, No. 87, Vol. 1, pp. 30\-\-33, 東北大学電気通信研究所 (Research Institute of Electrical Communication, Tohoku University, JAPAN), 2018-09-25. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/126020)**
-
-## Academic Articles & Proceedings \| 学術論文誌ならびにプロシーディングス
+## Academic Papers and Proceedings
 - **IEICE 2026, Oral:** 刑部好弘, 酒井崇匡(東大), and 淺原彰規, "構造の不確実性を考慮するグラフニューラルネットワークの提案とタンパク質の構造秩序性分類タスクによる評価," 電子情報通信学会総合大会 2026, D-19-11, 2026.
 - **IIBMP 2025, Poster, Reviewed:** 田中優次, 高瀬諒一, 刑部好弘, 井島大弥, 淺原彰規, 久田昇二, and 吉田啓, "マスク言語モデルを用いた強化学習法の開発とCAR-T細胞療法への応用 (Reinforcement Learning with Masked Language Model for CAR-T Cell Therapy Application)," 日本バイオインフォマティクス学会年会 (IIBMP) 2025, PO-001, 2025. **[【LINK】](https://www.jsbi.org/iibmp2025/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%99%BA%E8%A1%A8/)**
 - **IIBMP 2025, Poster, Reviewed:** 井島大弥, 刑部好弘, 高瀬諒一, 小山光, 淺原彰規, "配列-機能関係を学習したVariational Autoencoderによる高機能変異タンパク質アミノ酸配列の生成 (Generation of Mutant Amino Acid Sequences for Highly Functional Proteins with a Variational Autoencoder Trained on Sequence-Function Relationships)," 日本バイオインフォマティクス学会年会 (IIBMP) 2025, PO-007, 2025. **[【LINK】](https://www.jsbi.org/iibmp2025/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%99%BA%E8%A1%A8/)**
@@ -151,7 +193,37 @@
 
 Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe) for the abstracts.
 
-## Related News Releases and Web Articles \| 関連ニュースリリースと報道記事
+
+## Thesis and Dissertation
+
+- **Thesis (修士学位論文):** Yoshihiro Osakabe, "ジョセフソン接合列の巨視的量子トンネリング特性とその多接合効果に関する研究 (Multi-Junction Effect on Macroscopic Quantum Tunneling in Josephson Junctions in Series)," Tohoku University (JAPAN), 2015-03-25.
+- **Dissertation (博士学位論文):** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," Tohoku University (JAPAN), 2018-03-27. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/127805)**
+  - **Departmental Bulletin Paper \| 紀要論文:** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," 東北大学電通談話会記録, No. 87, Vol. 1, pp. 30\-\-33, 東北大学電気通信研究所 (Research Institute of Electrical Communication, Tohoku University, JAPAN), 2018-09-25. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/126020)**
+
+
+# Scholarly Presentations
+## Invited Talks
+- 刑部好弘, and 淺原彰規, "MF-JSON に関連した日立のケーススタディと周辺技術のご紹介," NICT スマートIoT推進フォーラム 技術戦略検討部会 テストベッド分科会 － 第11回データ分析・可視化タスクフォース, July 12th, 2022.
+    - The overview of the task force meeting is [here (https://testbed.nict.go.jp/bunkakai/da-v.html)](https://testbed.nict.go.jp/bunkakai/da-v.html).
+    - The presentation material is available online; [PDF](https://testbed.nict.go.jp/bunkakai/pdf/da-v_tf-11-02.pdf).
+- 刑部好弘, and 淺原彰規, "高度な動線分析の実現に向けて - 分析事例紹介と分析区画動的決定法の検討," 第28回地理情報システム学会研究発表大会, 2019.
+- Y. Osakabe, "Neuro-inspired Iterative Learning Rules for Quantum Neural Networks," The International Conference on Soft Computing and Machine Learning (SCML), 2019.
+- Y. Osakabe, "Hebbian and anti-Hebbian Learning of Qubit Networks for Quantum Associative Memory," The Collaborative Conference on Quantum Machine Learning (CCQML), OAHOST, May 2018.
+
+## Seminars and Other Talks
+- 刑部好弘, "科学研究を加速する機械学習・深層学習技術," 第56回技術士CPD講座 - AIデータサイエンス/医療統計学, May 17th, 2025. **[【LINK1】](https://www.engineer.or.jp/c_shibu/ibaraki/topics/010/010783.html)** \| **[【LINK2】](https://www.engineer.or.jp/c_shibu/ibaraki/topics/010/attached/attach_10783_1.pdf)**
+- 刑部好弘, "分子構造生成モデル：統計的言語普遍と外挿領域からの生成," 統計数学☓情報☓物質セミナー①〜数学とマテリアルズDX〜｜2024a011, Jan 27th, 2025. **[【Website】](https://joint.imi.kyushu-u.ac.jp/post-14920/)** \| **[【YouTube】](https://youtu.be/iB9Z1ZnIf4k?si=uX_iJ-O06d-PfmQ1)**
+- 刑部好弘, "サイエンスと人工知能," 東北大学大学院卓越リーダーセミナー I, July 4th, 2023.
+- 刑部好弘, "マテリアルズ・インフォマティクス - 生成系AIによる実験候補材料探索の効率化," Laboratory Automation勉強会, May 20th, 2023. **[【LINK】](https://laboratoryautomation.connpass.com/)**
+- 刑部好弘, "現実世界の課題解決に挑む、日立の研究開発," 東北大学研究開発実践論, October 31st, 2022.
+- 刑部好弘, "マテリアルズ・インフォマティクス - 材料探索とAI," 人工知能学会全国大会(第36回) 株式会社日立製作所 ランチョンセミナー, June 15th, 2022. **[【LINK】](https://www.ai-gakkai.or.jp/jsai2022/wp-content/uploads/sites/17/2022/05/AC36038_LUNCHEON_SEMINAR_PDF_rev2.pdf)**
+- 刑部好弘, "科学者のためのAI," 東北大学大学院卓越リーダーセミナー I, April 26th, 2022.
+- Y. Osakabe, "Introduction to GeoAI," Special Summer Seminar at The University of Information Technology (Myanmar), June 18th, 2019.
+
+
+# Outreach and Media
+
+## News Releases and Related Articles
 - [(2025/11/27) エピストラと日立、AIを活用しファーメランタの医薬原料中間体「(S)-レチクリン」の生産において、世界最大級の収量とラボ実験回数の最大73%減を達成](https://www.hitachi.co.jp/New/cnews/month/2025/11/1127a.html)
 - [(2025/5/13) デジタル×バイオ融合により、細胞遺伝子治療薬の効果的な開発を支援する技術を開発](https://www.hitachi.co.jp/New/cnews/month/2025/05/0513b.html)
     - [日経バイオテク \| 日立製作所、デジタル×バイオ融合により、細胞遺伝子治療薬の効果的な開発を支援する技術を開発](https://bio.nikkeibp.co.jp/atcl/release/25/05/14/24132/)
@@ -173,7 +245,7 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
     - [日経クロステック \| 三井化学と日立が新規材料の化合物を発見するAI、実験回数を4分の1に削減](https://xtech.nikkei.com/atcl/nxt/news/18/10698/)
     - [MONOist \| 日立が実験回数4分の1のマテリアルズインフォマティクス技術、三井化学と実証へ](https://monoist.itmedia.co.jp/mn/articles/2106/29/news052.html)
 
-## Interviews, Web Articles and Others \| インタビュー記事やウェブ記事など、その他
+## Interviews and Others
 - [企業で活躍する博士人財ロールモデル事例集 \| 日立製作所 刑部好弘](https://www.meti.go.jp/policy/innovation_corp/roll_model_hakase.pdf)
   - [掲載元 \| 経済産業省 - 博士人材活躍促進に向けて](https://www.meti.go.jp/policy/innovation_corp/hakasezinnzai_katuyaku.html)
   - [掲載元 \| 文部科学省 - 博士人材活躍プラン～博士をとろう～](https://www.mext.go.jp/a_menu/jinzai/1278386_00002.htm)
@@ -186,3 +258,6 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
 - [AIやシミュレーション技術を活用したマテリアルズ・インフォマティクス（MI）について](https://qiita.com/KH_MOON/items/7cdd5c1501d60e125f5e)
 - [データサイエンティストの仕事～日立のAI研究者に聞いてみた！～シリーズ４～](https://qiita.com/KH_MOON/items/34c4a83a409926bf5bd6)
 
+---
+
+[Back to top](#yoshihiro-osakabe--portfolio)
