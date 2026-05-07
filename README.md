@@ -67,23 +67,21 @@ From a cross-disciplinary perspective, I emphasize redefining research problems 
 
 ## Research Areas
 
-- Foundations of Intelligence
-  - Information Processing and Emergence of Intelligence
-  - **Artificial Intelligence**
-    - AI for Science (aka. AI4Science) / Scientific AI
-    - Materials Informatics / Bioinformatics
-      - Deep Generative Model for Automatic Chemical Design
-      - Deep Generative Model for Protein Design (Protein Language Models)
-    - AI for Laboratory Automation
-    - GeoAI (AI for Geospatial Information)
-  - Non-von Neumann Computing
-    - Reservoir Computing
+**Foundations of Intelligence**
+- Neural and Dynamical Computation
+  - Artificial Neural Networks (including shallow models)
+  - Stochastic / Probabilistic Computing
+  - Reservoir Computing
   - Quantum Computing
     - Quantum Neural Networks
-    - Quantum Machine Learning & Quantum Deep Learning
     - Quantum Circuit Learning
-    - Superconducting Qubit Architectures
-
+- **Artificial Intelligence**
+  - AI for Science (aka. AI4Science) / Scientific AI
+  - Materials Informatics / Bioinformatics
+    - Deep Generative Models for Chemical Design
+    - Deep Generative Models for Protein Design
+  - AI for Laboratory Automation
+  - GeoAI (Geospatial AI)
 
 ## Research Statement
 
