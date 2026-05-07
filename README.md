@@ -1,13 +1,13 @@
 # Yoshihiro Osakabe | Portfolio
 
-AI・情報科学を基盤とし、AI for Scienceを軸に自然科学領域の未踏領域を探索する越境型研究者。</br>
-物理・化学・生命科学など複数分野において、既存の理論・データ・計測の枠組みを横断しながら、新たな問題設定やアプローチの可能性を探る。</br>
-また、非ノイマン型コンピューティング（リザバー計算や量子計算）など、新原理コンピューティングと知能の関係にも関心を持つ。</br>
+AI・情報科学を基盤とし、AI for Scienceを軸に自然科学領域の未踏領域を探索する越境型研究者。  
+物理・化学・生命科学など複数分野において、既存の理論・データ・計測の枠組みを横断しながら、新たな問題設定やアプローチの可能性を探る。  
+また、非ノイマン型コンピューティング（リザバー計算や量子計算）など、新原理コンピューティングと知能の関係にも関心を持つ。  
 分野横断的な視点から、専門家との対話を通じて課題を再定義し、研究の方向性そのものを構想することを重視している。
 
-A cross-disciplinary researcher exploring uncharted territories in the natural sciences, grounded in AI and information science, with a focus on AI for Science.</br>
-Across fields such as physics, chemistry, and life sciences, I investigate new problem formulations and methodological possibilities by traversing existing frameworks of theory, data, and measurement.</br>
-I also have an interest in the relationship between intelligence and emerging computational paradigms, including non-von Neumann computing (e.g., reservoir computing and quantum computing).</br>
+A cross-disciplinary researcher exploring uncharted territories in the natural sciences, grounded in AI and information science, with a focus on AI for Science.  
+Across fields such as physics, chemistry, and life sciences, I investigate new problem formulations and methodological possibilities by traversing existing frameworks of theory, data, and measurement.  
+I also have an interest in the relationship between intelligence and emerging computational paradigms, including non-von Neumann computing (e.g., reservoir computing and quantum computing).  
 From a cross-disciplinary perspective, I emphasize redefining research problems and shaping research directions through close dialogue with domain experts.
 
 ---
@@ -87,15 +87,15 @@ From a cross-disciplinary perspective, I emphasize redefining research problems 
 
 ## Research Statement
 
-多くの科学的課題は、データそのものだけでなく、それをどのような枠組みで解釈するかによっても制約されている。この認識を出発点として、特に理論・データ・計測が交差する領域において、前提となる仮定を捉え直すことで、新たな問題設定がどのように立ち上がるかに関心を持っている。</br>
-個別分野に閉じた解の追求にとどまらず、研究課題をより一般的な構造を持つ問いとして捉えることを重視している。不完全かつ不確実な観測のもとでの推論、異なる性質の知識の統合、さらには既存の方法論の枠組みをどのように拡張できるかといった観点から、問題を捉え直すことを試みている。</br>
-各分野の専門家との対話を通じて、その領域に内在する暗黙の前提や制約を明らかにし、問題そのものの立て方を見直す。このプロセスを通じて、既存の分野の枠内では見えにくい研究の方向性を探る。</br>
+多くの科学的課題は、データそのものだけでなく、それをどのような枠組みで解釈するかによっても制約されている。この認識を出発点として、特に理論・データ・計測が交差する領域において、前提となる仮定を捉え直すことで、新たな問題設定がどのように立ち上がるかに関心を持っている。  
+個別分野に閉じた解の追求にとどまらず、研究課題をより一般的な構造を持つ問いとして捉えることを重視している。不完全かつ不確実な観測のもとでの推論、異なる性質の知識の統合、さらには既存の方法論の枠組みをどのように拡張できるかといった観点から、問題を捉え直すことを試みている。  
+各分野の専門家との対話を通じて、その領域に内在する暗黙の前提や制約を明らかにし、問題そのものの立て方を見直す。このプロセスを通じて、既存の分野の枠内では見えにくい研究の方向性を探る。  
 最終的には、現在の科学的実践に埋め込まれている前提を見直すことで、科学的発見に向けた方法論の可能性そのものを拡張することを目指している。
 
-My research is motivated by the observation that many scientific problems are constrained not only by data, but by the frameworks through which those data are interpreted. I am interested in how new problem formulations can emerge by revisiting these underlying assumptions, particularly at the intersection of theory, data, and measurement.</br>
-Rather than focusing on domain-specific solutions, I approach research problems as instances of broader structural questions: how to reason under limited and uncertain observations, how to reconcile heterogeneous sources of knowledge, and how to extend existing methodological boundaries.</br>
-Through close interaction with domain experts, I seek to uncover implicit constraints and reformulate problems in ways that enable alternative lines of inquiry. This perspective allows for the exploration of research directions that are not apparent within established disciplinary frameworks.</br>
-Ultimately, my work aims to expand the space of possible methodologies for scientific discovery by re-examining the assumptions embedded in current practices.</br>
+My research is motivated by the observation that many scientific problems are constrained not only by data, but by the frameworks through which those data are interpreted. I am interested in how new problem formulations can emerge by revisiting these underlying assumptions, particularly at the intersection of theory, data, and measurement.  
+Rather than focusing on domain-specific solutions, I approach research problems as instances of broader structural questions: how to reason under limited and uncertain observations, how to reconcile heterogeneous sources of knowledge, and how to extend existing methodological boundaries.  
+Through close interaction with domain experts, I seek to uncover implicit constraints and reformulate problems in ways that enable alternative lines of inquiry. This perspective allows for the exploration of research directions that are not apparent within established disciplinary frameworks.  
+Ultimately, my work aims to expand the space of possible methodologies for scientific discovery by re-examining the assumptions embedded in current practices.  
 
 
 ## Biography
@@ -105,8 +105,8 @@ Ultimately, my work aims to expand the space of possible methodologies for scien
 
 ## Biography
 
-**Yoshihiro Osakabe** received the B.E., M.E., and Ph.D. degrees from Tohoku University, Sendai, Japan, in 2013, 2015, and 2018, respectively.</br>
-He joined Hitachi, Ltd., Research and Development Group, Tokyo, Japan, in April 2018, where he has been engaged in research on artificial intelligence, particularly in the areas of materials informatics and geospatial informatics.</br>
+**Yoshihiro Osakabe** received the B.E., M.E., and Ph.D. degrees from Tohoku University, Sendai, Japan, in 2013, 2015, and 2018, respectively.  
+He joined Hitachi, Ltd., Research and Development Group, Tokyo, Japan, in April 2018, where he has been engaged in research on artificial intelligence, particularly in the areas of materials informatics and geospatial informatics.  
 He is currently a Chief Researcher at Hitachi, Ltd., where he leads research activities in AI for Science, focusing on cross-disciplinary approaches to scientific discovery.
 
 ### Career History
