@@ -78,7 +78,7 @@ A cross-disciplinary researcher exploring uncharted territories in science throu
 
 **Foundations of Intelligence**
 - Neural and Dynamical Computation
-  - Artificial Neural Networks (including shallow models)
+  - Brain-inspired Computing (including Neural Networks)
   - Stochastic / Probabilistic Computing
   - Reservoir Computing
   - Quantum Computing
