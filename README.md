@@ -63,13 +63,13 @@ A cross-disciplinary researcher exploring uncharted territories in science throu
 - GitHub: [yosakabe](https://github.com/yosakabe)
 
 **Academic Profiles**
+- [Researchmap](https://researchmap.jp/yoshihiro_osakabe)
 - [Google Scholar Profile Page](https://scholar.google.co.jp/citations?user=LRmQRQwAAAAJ)
 - [ORCID](https://orcid.org/0000-0001-7217-6097)
-- [ResearchGate](https://www.researchgate.net/profile/Yoshihiro-Osakabe)
 - [Publons](https://publons.com/researcher/4634254/yoshihiro-osakabe/)
+- [ResearchGate](https://www.researchgate.net/profile/Yoshihiro-Osakabe)
 
 **Japanese**
-- [Researchmap](https://researchmap.jp/yoshihiro_osakabe)
 - [X - Twitter](https://twitter.com/osaKB)
 - [はてなブログ](https://coffeebreakscript.hatenablog.com)
 - [Qiita](https://qiita.com/yosakabe)
