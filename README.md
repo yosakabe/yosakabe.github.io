@@ -77,20 +77,20 @@ A cross-disciplinary researcher exploring uncharted territories in science throu
 ## Research Areas
 
 **Foundations of Intelligence**
-- Neural and Dynamical Computation
-  - Brain-inspired Computing (including Neural Networks)
-  - Stochastic / Probabilistic Computing
-  - Reservoir Computing
-  - Quantum Computing
-    - Quantum Neural Networks
-    - Quantum Circuit Learning
-- **Artificial Intelligence**
+1. **Artificial Intelligence**
   - AI for Science (aka. AI4Science) / Scientific AI
   - Materials Informatics / Bioinformatics
     - Deep Generative Models for Chemical Design
     - Deep Generative Models for Protein Design
   - AI for Laboratory Automation
   - GeoAI (Geospatial AI)
+2. **Neural and Dynamical Computation**
+  - Brain-inspired Computing (including Neural Networks)
+  - Stochastic / Probabilistic Computing
+  - Reservoir Computing
+  - Quantum Computing
+    - Quantum Neural Networks
+    - Quantum Circuit Learning
 
 ## Research Statement
 
@@ -235,6 +235,8 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
 # Outreach & Media
 
 ## News Releases & Related Articles
+- [(2026/09/17) 日立、「再生材マーケットプレイス」を10月1日から運用開始し、三菱UFJ銀行との金融連携による再生材の活用促進を支援](https://www.hitachi.com/ja-jp/press/articles/2026/09/0917b/)
+- [(2026/08/25) ゲルを違う角度から見てみる――情報・生命・地震・AIと考える「複素ゲル」](https://note.com/real_gecko5420/n/n245bf90cd443)
 - [(2025/11/27) エピストラと日立、AIを活用しファーメランタの医薬原料中間体「(S)-レチクリン」の生産において、世界最大級の収量とラボ実験回数の最大73%減を達成](https://www.hitachi.co.jp/New/cnews/month/2025/11/1127a.html)
 - [(2025/5/13) デジタル×バイオ融合により、細胞遺伝子治療薬の効果的な開発を支援する技術を開発](https://www.hitachi.co.jp/New/cnews/month/2025/05/0513b.html)
     - [日経バイオテク \| 日立製作所、デジタル×バイオ融合により、細胞遺伝子治療薬の効果的な開発を支援する技術を開発](https://bio.nikkeibp.co.jp/atcl/release/25/05/14/24132/)
