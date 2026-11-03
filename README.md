@@ -240,6 +240,8 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
 ## News Releases & Related Articles
 - [(2026/09/17) 日立、「再生材マーケットプレイス」を10月1日から運用開始し、三菱UFJ銀行との金融連携による再生材の活用促進を支援](https://www.hitachi.com/ja-jp/press/articles/2026/09/0917b/)
 - [(2026/08/25) ゲルを違う角度から見てみる――情報・生命・地震・AIと考える「複素ゲル」](https://note.com/real_gecko5420/n/n245bf90cd443)
+- [(2026/7/14) 日刊工業新聞 \| 日立・東大、構造不確実性学習AI　たんぱく質機能予測高度化](https://www.nikkan.co.jp/articles/view/786569)
+- [(2026/6/9) 人工知能学会全国大会にて本校3年の小松君が招待講演を行いました](https://www.suwaseiryo.ed.jp/seiryo_topics/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E5%AD%A6%E4%BC%9A%E5%85%A8%E5%9B%BD%E5%A4%A7%E4%BC%9A%E3%81%AB%E3%81%A6%E6%9C%AC%E6%A0%A13%E5%B9%B4%E3%81%AE%E5%B0%8F%E6%9D%BE%E5%90%9B%E3%81%8C%E6%8B%9B%E5%BE%85/)
 - [(2025/11/27) エピストラと日立、AIを活用しファーメランタの医薬原料中間体「(S)-レチクリン」の生産において、世界最大級の収量とラボ実験回数の最大73%減を達成](https://www.hitachi.co.jp/New/cnews/month/2025/11/1127a.html)
 - [(2025/5/13) デジタル×バイオ融合により、細胞遺伝子治療薬の効果的な開発を支援する技術を開発](https://www.hitachi.co.jp/New/cnews/month/2025/05/0513b.html)
     - [日経バイオテク \| 日立製作所、デジタル×バイオ融合により、細胞遺伝子治療薬の効果的な開発を支援する技術を開発](https://bio.nikkeibp.co.jp/atcl/release/25/05/14/24132/)
