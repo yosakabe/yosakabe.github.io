@@ -113,7 +113,7 @@ He is currently a Chief Researcher at Hitachi, Ltd., where he leads research act
 
 ### Career History
 
-- 2018年(平成30年) 4月　(株)日立製作所 研究開発グループ 入社
+- (株)日立製作所 研究開発グループ
   - 2025年(令和7年)4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・社会インテリジェンス研究部）
   - 2024年(令和6年)4月 主任研究員 / Chief Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
   - 2022年(令和4年)4月 研究員 / Senior Researcher（先端AIイノベーションセンタ・データサイエンスラボラトリ）
@@ -156,6 +156,9 @@ He is currently a Chief Researcher at Hitachi, Ltd., where he leads research act
 # Publications
 
 ## Academic Papers & Proceedings
+- **JSAI 2026, Oral:** 刑部好弘, 酒井崇匡(東大), 淺原彰規, 高原渉, 大澤博史, and 森田秀和, "学習的に不確実性を統合するグラフニューラルネットワーク," 人工知能学会全国大会 2026, 5I3-OS-22b-02, 2026. **[【LINK】](https://www.jstage.jst.go.jp/article/pjsai/JSAI2026/0/JSAI2026_5I3OS22b02/_article/-char/ja)**
+- **JSAI 2026, Oral:** 井島大弥, 田中優次, and 刑部好弘, "拡散型タンパク質言語モデルの埋め込みバイアスによる生成配列機能値分布の操作," 人工知能学会全国大会 2026, 4Yin-B-42, 2026. **[【LINK】](https://www.jstage.jst.go.jp/article/pjsai/JSAI2026/0/JSAI2026_4YinB42/_article/-char/ja)**
+- **JSAI 2026, Oral:** 阿部優輝, YUNG Ching Man, 刑部好弘, 淺原彰規, 福岡誠之, 高原渉, and 森田秀和, "大規模数値データの視覚化によるLLM入力の検討と実験的評価," 人工知能学会全国大会 2026, 1L4-GS-9b-06, 2026. **[【LINK】](https://www.jstage.jst.go.jp/article/pjsai/JSAI2026/0/JSAI2026_1L4GS9b06/_article/-char/ja)**
 - **IEICE 2026, Oral:** 刑部好弘, 酒井崇匡(東大), and 淺原彰規, "構造の不確実性を考慮するグラフニューラルネットワークの提案とタンパク質の構造秩序性分類タスクによる評価," 電子情報通信学会総合大会 2026, D-19-11, 2026.
 - **IIBMP 2025, Poster, Reviewed:** 田中優次, 高瀬諒一, 刑部好弘, 井島大弥, 淺原彰規, 久田昇二, and 吉田啓, "マスク言語モデルを用いた強化学習法の開発とCAR-T細胞療法への応用 (Reinforcement Learning with Masked Language Model for CAR-T Cell Therapy Application)," 日本バイオインフォマティクス学会年会 (IIBMP) 2025, PO-001, 2025. **[【LINK】](https://www.jsbi.org/iibmp2025/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%99%BA%E8%A1%A8/)**
 - **IIBMP 2025, Poster, Reviewed:** 井島大弥, 刑部好弘, 高瀬諒一, 小山光, 淺原彰規, "配列-機能関係を学習したVariational Autoencoderによる高機能変異タンパク質アミノ酸配列の生成 (Generation of Mutant Amino Acid Sequences for Highly Functional Proteins with a Variational Autoencoder Trained on Sequence-Function Relationships)," 日本バイオインフォマティクス学会年会 (IIBMP) 2025, PO-007, 2025. **[【LINK】](https://www.jsbi.org/iibmp2025/%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%99%BA%E8%A1%A8/)**
